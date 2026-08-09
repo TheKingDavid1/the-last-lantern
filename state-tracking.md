@@ -56,3 +56,10 @@ _Last updated: Week 1, Day 1_
 |---|---|---|
 | Week 1 Day 1 | Persona/authorship fingerprint defined | Done |
 | | | |
+
+## Infrastructure log (GitHub + workspace discipline)
+- **GitHub repo live:** github.com/TheKingDavid1/the-last-lantern (public) — canonical backup for all lightweight production files (scripts, persona, branding, assets, narration, captions, guides)
+- **Episode videos** stored as GitHub Releases (not committed directly — too large for normal git), e.g. Episode 1: github.com/TheKingDavid1/the-last-lantern/releases/tag/episode-01-kolmanskop
+- **Known platform quirk:** the sandbox does not persist `.git/` folders or credential files (`.git-credentials`) between turns — git must be re-initialized (`git init` + `remote add`) each time we push in a new turn. Cheap to redo, not a real problem, just a step to remember.
+- **Incident (Aug 9, Turn ~15):** the 10-image Kolmanskop asset library was silently dropped from the workspace snapshot (over the 128MB budget at save time), and the local copy was deleted based on an unverified assumption it had already reached GitHub. It hadn't. Images were regenerated from the original prompts (saved in this repo under `production-docs/chatgpt-image-prompts.md`-adjacent notes) and re-pushed.
+- **New rule going forward: verify a GitHub push against the API (list actual file contents / sizes) before deleting any local-only copy of a file.** Never assume a push succeeded just because the `git push` command returned success — confirm the specific files exist server-side first.
