@@ -1,0 +1,179 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Karaoke,Anton,84,&H005EC1FF,&H00FFFFFF,&H00101010,&H64000000,0,0,0,0,100,100,0,0,1,5,3,5,100,100,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.10,Karaoke,,0,0,0,,{\kf54}THIS {\kf22}WAS {\kf38}ONCE {\kf26}ONE {\kf14}OF {\kf12}THE {\kf44}RICHEST
+Dialogue: 0,0:00:02.10,0:00:05.44,Karaoke,,0,0,0,,{\kf50}TOWNS {\kf34}ON {\kf16}THE {\kf56}ENTIRE {\kf48}AFRICAN {\kf130}CONTINENT
+Dialogue: 0,0:00:05.44,0:00:07.86,Karaoke,,0,0,0,,{\kf74}TODAY {\kf6}THE {\kf38}DESERT {\kf34}IS {\kf40}FINISHING {\kf36}WHAT {\kf14}THE
+Dialogue: 0,0:00:07.86,0:00:10.34,Karaoke,,0,0,0,,{\kf46}DIAMOND {\kf26}RUSH {\kf104}STARTED {\kf26}AND {\kf20}SOME {\kf12}OF {\kf14}ITS
+Dialogue: 0,0:00:10.34,0:00:12.92,Karaoke,,0,0,0,,{\kf66}GRANDEST {\kf32}ROOMS {\kf30}ARE {\kf36}BURIED {\kf26}IN {\kf40}SAND {\kf28}UP
+Dialogue: 0,0:00:12.92,0:00:15.83,Karaoke,,0,0,0,,{\kf16}TO {\kf8}THE {\kf93}CEILING {\kf60}LIGHT {\kf28}THE {\kf86}LANTERN
+Dialogue: 0,0:00:15.83,0:00:18.03,Karaoke,,0,0,0,,{\kf46}THIS {\kf34}ONE'S {\kf14}BEEN {\kf24}WAITING {\kf28}A {\kf28}LONG {\kf46}TIME
+Dialogue: 0,0:00:18.03,0:00:21.21,Karaoke,,0,0,0,,{\kf18}TO {\kf14}BE {\kf192}TOLD {\kf28}SOMEWHERE {\kf28}IN {\kf12}THE {\kf26}SOUTH
+Dialogue: 0,0:00:21.21,0:00:24.45,Karaoke,,0,0,0,,{\kf28}OF {\kf84}NAMIBIA {\kf28}PAST {\kf26}THE {\kf36}LAST {\kf30}PAVED {\kf92}ROAD
+Dialogue: 0,0:00:24.45,0:00:26.31,Karaoke,,0,0,0,,{\kf24}THERE'S {\kf26}A {\kf22}TOWN {\kf28}WHERE {\kf18}THE {\kf32}DESERT {\kf36}COMES
+Dialogue: 0,0:00:26.31,0:00:28.25,Karaoke,,0,0,0,,{\kf26}IN {\kf20}THROUGH {\kf14}THE {\kf32}FRONT {\kf102}DOOR
+Dialogue: 0,0:00:28.25,0:00:32.47,Karaoke,,0,0,0,,{\kf30}NOT {\kf66}METAPHORICALLY {\kf164}LITERALLY {\kf36}SAND {\kf14}IN {\kf34}DRIFTS
+Dialogue: 0,0:00:32.47,0:00:35.53,Karaoke,,0,0,0,,{\kf48}TALLER {\kf32}THAN {\kf10}A {\kf82}PERSON {\kf42}SPILLING {\kf30}THROUGH {\kf62}DOORWAYS
+Dialogue: 0,0:00:35.53,0:00:38.85,Karaoke,,0,0,0,,{\kf30}AND {\kf34}WINDOW {\kf90}FRAMES {\kf34}FILLING {\kf70}BALLROOMS {\kf22}AND {\kf52}HOSPITAL
+Dialogue: 0,0:00:38.85,0:00:41.63,Karaoke,,0,0,0,,{\kf40}WARDS {\kf30}AND {\kf38}BOWLING {\kf48}ALLEYS {\kf72}ONE {\kf32}GRAIN {\kf18}AT
+Dialogue: 0,0:00:41.63,0:00:45.18,Karaoke,,0,0,0,,{\kf10}A {\kf80}TIME {\kf16}FOR {\kf32}ALMOST {\kf58}SEVENTY {\kf159}YEARS
+Dialogue: 0,0:00:45.18,0:00:47.90,Karaoke,,0,0,0,,{\kf18}IT {\kf22}HAS {\kf20}A {\kf114}NAME {\kf98}KOLMANSKOP
+Dialogue: 0,0:00:47.90,0:00:49.70,Karaoke,,0,0,0,,{\kf42}AND {\kf72}ONCE {\kf10}IT {\kf12}WAS {\kf16}ONE {\kf12}OF {\kf16}THE
+Dialogue: 0,0:00:49.70,0:00:53.70,Karaoke,,0,0,0,,{\kf32}RICHEST {\kf44}TOWNS {\kf30}ON {\kf12}THE {\kf54}ENTIRE {\kf60}AFRICAN {\kf168}CONTINENT
+Dialogue: 0,0:00:53.70,0:00:55.61,Karaoke,,0,0,0,,{\kf16}GET {\kf107}COMFORTABLE {\kf18}LET'S {\kf12}GO {\kf16}BACK {\kf16}TO {\kf6}THE
+Dialogue: 0,0:00:55.61,0:01:00.34,Karaoke,,0,0,0,,{\kf213}BEGINNING {\kf16}IN {\kf142}1908 {\kf5}A {\kf26}RAILWAY {\kf46}WORKER {\kf26}NAMED
+Dialogue: 0,0:01:00.34,0:01:03.12,Karaoke,,0,0,0,,{\kf80}ZACHARIAS {\kf52}LEWALA {\kf30}WAS {\kf36}CLEARING {\kf40}SAND {\kf26}FROM {\kf14}THE
+Dialogue: 0,0:01:03.12,0:01:05.04,Karaoke,,0,0,0,,{\kf28}TRACKS {\kf26}NEAR {\kf22}A {\kf24}SMALL {\kf46}SETTLEMENT {\kf32}IN {\kf14}WHAT
+Dialogue: 0,0:01:05.04,0:01:07.40,Karaoke,,0,0,0,,{\kf16}WAS {\kf26}THEN {\kf48}GERMAN {\kf14}SOUTH {\kf28}WEST {\kf58}AFRICA
+Dialogue: 0,0:01:07.40,0:01:09.86,Karaoke,,0,0,0,,{\kf20}THE {\kf38}TERRITORY {\kf26}WE {\kf22}NOW {\kf18}KNOW {\kf22}AS {\kf100}NAMIBIA
+Dialogue: 0,0:01:09.86,0:01:11.50,Karaoke,,0,0,0,,{\kf26}HE {\kf20}PICKED {\kf16}UP {\kf16}A {\kf86}STONE
+Dialogue: 0,0:01:11.50,0:01:13.74,Karaoke,,0,0,0,,{\kf16}IT {\kf24}CAUGHT {\kf20}THE {\kf26}LIGHT {\kf138}STRANGELY
+Dialogue: 0,0:01:13.74,0:01:15.38,Karaoke,,0,0,0,,{\kf14}HE {\kf16}SHOWED {\kf12}IT {\kf14}TO {\kf12}HIS {\kf88}SUPERVISOR {\kf8}A
+Dialogue: 0,0:01:15.38,0:01:17.48,Karaoke,,0,0,0,,{\kf10}MAN {\kf24}NAMED {\kf36}AUGUST {\kf94}STAUCH {\kf16}WHO {\kf14}HAD {\kf16}A
+Dialogue: 0,0:01:17.48,0:01:20.77,Karaoke,,0,0,0,,{\kf26}HUNCH {\kf26}WORTH {\kf40}ACTING {\kf113}ON {\kf22}THE {\kf42}STONE {\kf60}WAS
+Dialogue: 0,0:01:20.77,0:01:23.42,Karaoke,,0,0,0,,{\kf16}A {\kf127}DIAMOND {\kf10}AND {\kf14}IT {\kf38}WASN'T {\kf18}THE {\kf42}ONLY
+Dialogue: 0,0:01:23.42,0:01:24.72,Karaoke,,0,0,0,,{\kf34}ONE {\kf28}LYING {\kf18}IN {\kf16}THAT {\kf34}SAND
+Dialogue: 0,0:01:24.72,0:01:28.41,Karaoke,,0,0,0,,{\kf219}WORD {\kf42}SPREAD {\kf20}THE {\kf14}WAY {\kf12}IT {\kf36}ALWAYS {\kf26}DOES
+Dialogue: 0,0:01:28.41,0:01:30.99,Karaoke,,0,0,0,,{\kf26}WITH {\kf32}DIAMONDS {\kf38}FAST {\kf56}AND {\kf28}WITHOUT {\kf26}MUCH
+Dialogue: 0,0:01:30.99,0:01:33.39,Karaoke,,0,0,0,,{\kf30}REGARD {\kf24}FOR {\kf24}WHO {\kf26}FOUND {\kf18}THE {\kf20}FIRST {\kf98}ONE
+Dialogue: 0,0:01:33.39,0:01:36.21,Karaoke,,0,0,0,,{\kf24}WITHIN {\kf16}A {\kf26}FEW {\kf92}YEARS {\kf56}PROSPECTORS {\kf16}WERE {\kf52}REPORTEDLY
+Dialogue: 0,0:01:36.21,0:01:39.01,Karaoke,,0,0,0,,{\kf44}PICKING {\kf38}STONES {\kf52}STRAIGHT {\kf26}OFF {\kf14}THE {\kf26}DESERT {\kf80}FLOOR
+Dialogue: 0,0:01:39.01,0:01:40.85,Karaoke,,0,0,0,,{\kf26}SOMETIMES {\kf24}BY {\kf54}MOONLIGHT {\kf34}SO {\kf12}THEY {\kf20}WOULDN'T {\kf14}BE
+Dialogue: 0,0:01:40.85,0:01:42.69,Karaoke,,0,0,0,,{\kf24}SEEN {\kf16}BY {\kf44}RIVALS {\kf24}DOING {\kf16}THE {\kf18}SAME {\kf42}THING
+Dialogue: 0,0:01:42.69,0:01:45.81,Karaoke,,0,0,0,,{\kf156}LEWALA {\kf18}THE {\kf22}MAN {\kf22}WHO {\kf34}FOUND {\kf24}THE {\kf36}VERY
+Dialogue: 0,0:01:45.81,0:01:49.35,Karaoke,,0,0,0,,{\kf38}FIRST {\kf96}STONE {\kf40}DOESN'T {\kf12}GET {\kf18}A {\kf32}STATUE {\kf118}ANYWHERE
+Dialogue: 0,0:01:49.35,0:01:51.65,Karaoke,,0,0,0,,{\kf20}HE {\kf28}ISN'T {\kf40}RECORDED {\kf24}AS {\kf28}HAVING {\kf58}PROFITED {\kf32}FROM
+Dialogue: 0,0:01:51.65,0:01:54.11,Karaoke,,0,0,0,,{\kf16}WHAT {\kf12}HE {\kf94}FOUND {\kf52}THAT'S {\kf16}JUST {\kf18}THE {\kf38}FIRST
+Dialogue: 0,0:01:54.11,0:01:56.41,Karaoke,,0,0,0,,{\kf26}OF {\kf46}SEVERAL {\kf48}DETAILS {\kf28}ABOUT {\kf24}THIS {\kf24}PLACE {\kf34}THAT
+Dialogue: 0,0:01:56.41,0:01:58.65,Karaoke,,0,0,0,,{\kf36}SIT {\kf24}A {\kf18}LITTLE {\kf90}UNCOMFORTABLY {\kf26}ONCE {\kf18}YOU {\kf12}KNOW
+Dialogue: 0,0:01:58.65,0:02:01.72,Karaoke,,0,0,0,,{\kf119}THEM {\kf36}WHAT {\kf32}GREW {\kf34}OUT {\kf18}OF {\kf16}THAT {\kf52}DISCOVERY
+Dialogue: 0,0:02:01.72,0:02:05.66,Karaoke,,0,0,0,,{\kf62}WASN'T {\kf22}A {\kf28}MINING {\kf98}CAMP {\kf22}IT {\kf30}WAS {\kf132}IMPROBABLY
+Dialogue: 0,0:02:05.66,0:02:08.66,Karaoke,,0,0,0,,{\kf6}A {\kf50}SMALL {\kf62}EUROPEAN {\kf62}TOWN {\kf84}DROPPED {\kf36}INTO
+Dialogue: 0,0:02:08.66,0:02:11.16,Karaoke,,0,0,0,,{\kf16}ONE {\kf16}OF {\kf10}THE {\kf84}DRIEST {\kf16}MOST {\kf68}HOSTILE {\kf40}DESERTS
+Dialogue: 0,0:02:11.16,0:02:14.78,Karaoke,,0,0,0,,{\kf32}ON {\kf172}EARTH {\kf26}THE {\kf24}GERMAN {\kf52}SETTLERS {\kf32}WHO {\kf24}BUILT
+Dialogue: 0,0:02:14.78,0:02:17.20,Karaoke,,0,0,0,,{\kf58}KOLMANSKOP {\kf70}DIDN'T {\kf24}TRY {\kf12}TO {\kf38}ADAPT {\kf30}TO {\kf10}THE
+Dialogue: 0,0:02:17.20,0:02:19.30,Karaoke,,0,0,0,,{\kf22}DESERT {\kf24}AROUND {\kf70}THEM {\kf20}THEY {\kf28}TRIED {\kf16}TO {\kf30}IGNORE
+Dialogue: 0,0:02:19.30,0:02:22.80,Karaoke,,0,0,0,,{\kf96}IT {\kf18}THEY {\kf44}IMPORTED {\kf54}SOIL {\kf36}FOR {\kf102}GARDENS
+Dialogue: 0,0:02:22.80,0:02:24.52,Karaoke,,0,0,0,,{\kf12}THEY {\kf34}IMPORTED {\kf40}WATER {\kf28}TO {\kf16}KEEP {\kf16}THE {\kf26}GARDENS
+Dialogue: 0,0:02:24.52,0:02:28.02,Karaoke,,0,0,0,,{\kf116}ALIVE {\kf22}THEY {\kf18}BUILT {\kf18}A {\kf92}BALLROOM {\kf5}A {\kf80}THEATER
+Dialogue: 0,0:02:28.02,0:02:30.58,Karaoke,,0,0,0,,{\kf6}A {\kf96}CASINO {\kf10}AN {\kf26}ICE {\kf76}FACTORY {\kf18}AND {\kf24}A
+Dialogue: 0,0:02:30.58,0:02:32.62,Karaoke,,0,0,0,,{\kf50}KEGELBAHN {\kf42}A {\kf38}BOWLING {\kf32}ALLEY {\kf42}FOR
+Dialogue: 0,0:02:32.62,0:02:35.74,Karaoke,,0,0,0,,{\kf30}EVENING {\kf132}ENTERTAINMENT {\kf24}THEY {\kf20}BUILT {\kf24}A {\kf44}HOSPITAL {\kf38}THAT
+Dialogue: 0,0:02:35.74,0:02:38.36,Karaoke,,0,0,0,,{\kf26}HOUSED {\kf26}THE {\kf40}FIRST {\kf42}X-RAY {\kf34}MACHINE {\kf56}ANYWHERE {\kf38}IN
+Dialogue: 0,0:02:38.36,0:02:41.63,Karaoke,,0,0,0,,{\kf12}THE {\kf20}SOUTHERN {\kf143}HEMISPHERE {\kf48}THAT {\kf30}LAST {\kf42}DETAIL {\kf32}SOUNDS
+Dialogue: 0,0:02:41.63,0:02:43.53,Karaoke,,0,0,0,,{\kf22}LIKE {\kf14}A {\kf14}MARK {\kf18}OF {\kf122}PROGRESS
+Dialogue: 0,0:02:43.53,0:02:47.09,Karaoke,,0,0,0,,{\kf26}IT {\kf54}WASN'T {\kf152}ENTIRELY {\kf20}THE {\kf36}X-RAY {\kf42}MACHINE'S {\kf26}MAIN
+Dialogue: 0,0:02:47.09,0:02:49.53,Karaoke,,0,0,0,,{\kf32}JOB {\kf54}WASN'T {\kf32}TREATING {\kf40}BROKEN {\kf86}BONES
+Dialogue: 0,0:02:49.53,0:02:52.37,Karaoke,,0,0,0,,{\kf22}IT {\kf16}WAS {\kf36}CHECKING {\kf58}WORKERS {\kf5}OVERWHELMINGLY {\kf36}THE
+Dialogue: 0,0:02:52.37,0:02:54.45,Karaoke,,0,0,0,,{\kf50}AFRICAN {\kf34}LABORERS {\kf30}WHO {\kf12}DID {\kf20}THE {\kf30}PHYSICAL {\kf32}WORK
+Dialogue: 0,0:02:54.45,0:02:56.43,Karaoke,,0,0,0,,{\kf14}OF {\kf60}MINING {\kf18}NOT {\kf20}THE {\kf26}GERMAN {\kf36}RESIDENTS {\kf24}WHO
+Dialogue: 0,0:02:56.43,0:02:58.57,Karaoke,,0,0,0,,{\kf14}RAN {\kf14}THE {\kf28}TOWN {\kf26}FOR {\kf68}DIAMONDS {\kf8}THEY
+Dialogue: 0,0:02:58.57,0:03:00.53,Karaoke,,0,0,0,,{\kf14}MIGHT {\kf12}HAVE {\kf48}SWALLOWED {\kf32}OR {\kf32}HIDDEN {\kf26}TO {\kf32}SMUGGLE
+Dialogue: 0,0:03:00.53,0:03:03.87,Karaoke,,0,0,0,,{\kf124}OUT {\kf32}SOME {\kf34}WORKERS {\kf54}REPORTEDLY {\kf28}WENT {\kf18}TO {\kf44}REMARKABLE
+Dialogue: 0,0:03:03.87,0:03:05.73,Karaoke,,0,0,0,,{\kf60}LENGTHS {\kf24}TO {\kf6}GET {\kf20}A {\kf20}STONE {\kf34}PAST {\kf22}THE
+Dialogue: 0,0:03:05.73,0:03:08.59,Karaoke,,0,0,0,,{\kf32}CHECKPOINT {\kf134}ANYWAY {\kf24}ONE {\kf22}ACCOUNT {\kf22}HAS {\kf26}A {\kf26}SMUGGLED
+Dialogue: 0,0:03:08.59,0:03:11.61,Karaoke,,0,0,0,,{\kf42}DIAMOND {\kf44}STRAPPED {\kf30}TO {\kf26}A {\kf26}CARRIER {\kf92}PIGEON {\kf42}INTERCEPTED
+Dialogue: 0,0:03:11.61,0:03:14.09,Karaoke,,0,0,0,,{\kf50}ONLY {\kf32}BECAUSE {\kf16}THE {\kf14}BIRD {\kf48}STOPPED {\kf58}MID-FLIGHT {\kf30}TO
+Dialogue: 0,0:03:14.09,0:03:16.99,Karaoke,,0,0,0,,{\kf102}REST {\kf24}I {\kf28}FIND {\kf28}THAT {\kf52}DETAIL {\kf28}TELLS {\kf28}YOU
+Dialogue: 0,0:03:16.99,0:03:19.83,Karaoke,,0,0,0,,{\kf22}MORE {\kf34}ABOUT {\kf56}KOLMANSKOP {\kf26}THAN {\kf12}THE {\kf38}BALLROOM {\kf96}DOES
+Dialogue: 0,0:03:19.83,0:03:22.85,Karaoke,,0,0,0,,{\kf32}BEHIND {\kf24}THE {\kf26}VELVET {\kf52}CURTAINS {\kf34}AND {\kf50}IMPORTED {\kf84}ROSES
+Dialogue: 0,0:03:22.85,0:03:25.05,Karaoke,,0,0,0,,{\kf22}THIS {\kf16}WAS {\kf32}STILL {\kf20}A {\kf38}COMPANY {\kf76}TOWN {\kf16}BUILT
+Dialogue: 0,0:03:25.05,0:03:27.95,Karaoke,,0,0,0,,{\kf56}ENTIRELY {\kf54}AROUND {\kf52}EXTRACTION {\kf20}AND {\kf10}IT {\kf28}NEVER
+Dialogue: 0,0:03:27.95,0:03:30.34,Karaoke,,0,0,0,,{\kf24}REALLY {\kf26}LET {\kf34}ANYONE {\kf32}FORGET {\kf123}THAT
+Dialogue: 0,0:03:30.34,0:03:32.76,Karaoke,,0,0,0,,{\kf20}FOR {\kf10}A {\kf38}WHILE {\kf16}THOUGH {\kf86}KOLMANSKOP {\kf48}WAS {\kf24}BY
+Dialogue: 0,0:03:32.76,0:03:35.32,Karaoke,,0,0,0,,{\kf12}THE {\kf30}STANDARDS {\kf16}OF {\kf10}THE {\kf92}TIME {\kf96}SPECTACULAR
+Dialogue: 0,0:03:35.32,0:03:37.90,Karaoke,,0,0,0,,{\kf22}AT {\kf14}ITS {\kf28}HEIGHT {\kf30}IN {\kf10}THE {\kf134}1920S {\kf20}SEVERAL
+Dialogue: 0,0:03:37.90,0:03:40.98,Karaoke,,0,0,0,,{\kf50}HUNDRED {\kf32}GERMAN {\kf44}RESIDENTS {\kf44}AND {\kf26}AROUND {\kf64}800 {\kf48}OWAMBO
+Dialogue: 0,0:03:40.98,0:03:43.46,Karaoke,,0,0,0,,{\kf36}CONTRACT {\kf44}WORKERS {\kf20}LIVED {\kf92}THERE {\kf28}IT'S {\kf14}SAID {\kf14}TO
+Dialogue: 0,0:03:43.46,0:03:45.80,Karaoke,,0,0,0,,{\kf12}HAVE {\kf18}HAD {\kf54}AFRICA'S {\kf32}FIRST {\kf34}TRAM {\kf30}LINE {\kf54}RUNNING
+Dialogue: 0,0:03:45.80,0:03:48.08,Karaoke,,0,0,0,,{\kf18}OUT {\kf16}TO {\kf10}THE {\kf20}COASTAL {\kf30}TOWN {\kf18}OF {\kf116}LÜDERITZ
+Dialogue: 0,0:03:48.08,0:03:49.94,Karaoke,,0,0,0,,{\kf28}BETWEEN {\kf56}1908 {\kf46}AND {\kf8}THE {\kf24}START {\kf16}OF {\kf8}THE
+Dialogue: 0,0:03:49.94,0:03:52.34,Karaoke,,0,0,0,,{\kf18}FIRST {\kf22}WORLD {\kf92}WAR {\kf22}MILLIONS {\kf48}OF {\kf24}CARATS {\kf14}OF
+Dialogue: 0,0:03:52.34,0:03:53.92,Karaoke,,0,0,0,,{\kf28}DIAMONDS {\kf24}WERE {\kf24}PULLED {\kf20}FROM {\kf14}THE {\kf22}GROUND {\kf26}AROUND
+Dialogue: 0,0:03:53.92,0:03:56.30,Karaoke,,0,0,0,,{\kf112}IT {\kf34}IT {\kf40}SHOULDN'T {\kf14}HAVE {\kf38}WORKED
+Dialogue: 0,0:03:56.30,0:03:59.34,Karaoke,,0,0,0,,{\kf60}A {\kf44}WEALTHY {\kf52}EUROPEAN {\kf76}TOWN {\kf16}FULL {\kf24}OF {\kf32}GARDENS
+Dialogue: 0,0:03:59.34,0:04:01.78,Karaoke,,0,0,0,,{\kf32}AND {\kf98}CHAMPAGNE {\kf20}SITTING {\kf24}IN {\kf12}A {\kf28}DESERT {\kf30}THAT
+Dialogue: 0,0:04:01.78,0:04:03.70,Karaoke,,0,0,0,,{\kf16}GETS {\kf30}LESS {\kf48}RAINFALL {\kf24}IN {\kf14}A {\kf28}YEAR {\kf32}THAN
+Dialogue: 0,0:04:03.70,0:04:06.32,Karaoke,,0,0,0,,{\kf20}SOME {\kf20}CITIES {\kf28}GET {\kf16}IN {\kf12}A {\kf30}SINGLE {\kf136}AFTERNOON
+Dialogue: 0,0:04:06.32,0:04:10.39,Karaoke,,0,0,0,,{\kf26}FOR {\kf26}ABOUT {\kf38}TWO {\kf86}DECADES {\kf20}IT {\kf24}WORKED {\kf187}ANYWAY
+Dialogue: 0,0:04:10.39,0:04:12.77,Karaoke,,0,0,0,,{\kf56}DIAMONDS {\kf10}IT {\kf20}TURNS {\kf70}OUT {\kf24}DON'T {\kf24}STAY {\kf34}LOYAL
+Dialogue: 0,0:04:12.77,0:04:15.21,Karaoke,,0,0,0,,{\kf22}TO {\kf20}ONE {\kf126}TOWN {\kf24}AFTER {\kf14}THE {\kf16}FIRST {\kf22}WORLD
+Dialogue: 0,0:04:15.21,0:04:19.25,Karaoke,,0,0,0,,{\kf70}WAR {\kf12}DIAMOND {\kf36}PRICES {\kf92}DROPPED {\kf38}THEN {\kf14}IN {\kf142}1928
+Dialogue: 0,0:04:19.25,0:04:22.35,Karaoke,,0,0,0,,{\kf24}RICHER {\kf92}EASIER-TO-REACH {\kf42}DEPOSITS {\kf20}WERE {\kf28}DISCOVERED {\kf30}FARTHER {\kf74}SOUTH
+Dialogue: 0,0:04:22.35,0:04:23.93,Karaoke,,0,0,0,,{\kf26}ALONG {\kf16}THE {\kf24}BEACHES {\kf28}NEAR {\kf14}THE {\kf20}ORANGE {\kf30}RIVER
+Dialogue: 0,0:04:23.93,0:04:26.15,Karaoke,,0,0,0,,{\kf36}AT {\kf12}A {\kf16}PLACE {\kf30}CALLED {\kf128}ORANJEMUND
+Dialogue: 0,0:04:26.15,0:04:28.19,Karaoke,,0,0,0,,{\kf20}THE {\kf26}MINERS {\kf48}FOLLOWED {\kf16}THE {\kf68}DIAMONDS {\kf12}THE {\kf14}WAY
+Dialogue: 0,0:04:28.19,0:04:31.49,Karaoke,,0,0,0,,{\kf12}THEY {\kf34}ALWAYS {\kf104}HAD {\kf32}ONE {\kf24}BY {\kf86}ONE {\kf38}FAMILIES
+Dialogue: 0,0:04:31.49,0:04:35.31,Karaoke,,0,0,0,,{\kf44}PACKED {\kf120}UP {\kf46}HISTORIANS {\kf42}STILL {\kf46}ARGUE {\kf26}ABOUT {\kf58}EXACTLY
+Dialogue: 0,0:04:35.31,0:04:37.77,Karaoke,,0,0,0,,{\kf38}WHEN {\kf24}THE {\kf30}LAST {\kf40}RESIDENT {\kf58}FINALLY {\kf30}LOCKED {\kf26}THEIR
+Dialogue: 0,0:04:37.77,0:04:41.11,Karaoke,,0,0,0,,{\kf22}DOOR {\kf22}SOME {\kf36}ACCOUNTS {\kf26}SAY {\kf172}1954 {\kf5}OTHERS
+Dialogue: 0,0:04:41.11,0:04:42.69,Karaoke,,0,0,0,,{\kf24}PUT {\kf12}IT {\kf12}A {\kf16}COUPLE {\kf12}OF {\kf14}YEARS {\kf68}LATER
+Dialogue: 0,0:04:42.69,0:04:46.13,Karaoke,,0,0,0,,{\kf5}IN {\kf172}1956 {\kf30}WHAT {\kf50}ISN'T {\kf16}IN {\kf32}DISPUTE {\kf40}IS
+Dialogue: 0,0:04:46.13,0:04:48.69,Karaoke,,0,0,0,,{\kf36}HOW {\kf20}THE {\kf30}TOWN {\kf112}EMPTIED {\kf26}NOT {\kf14}IN {\kf18}A
+Dialogue: 0,0:04:48.69,0:04:52.65,Karaoke,,0,0,0,,{\kf30}SINGLE {\kf50}DRAMATIC {\kf110}EVACUATION {\kf32}BUT {\kf138}SLOWLY {\kf5}HOUSE {\kf36}BY
+Dialogue: 0,0:04:52.65,0:04:54.81,Karaoke,,0,0,0,,{\kf76}HOUSE {\kf40}UNTIL {\kf16}THERE {\kf12}WAS {\kf30}NO {\kf22}ONE {\kf20}LEFT
+Dialogue: 0,0:04:54.81,0:04:57.99,Karaoke,,0,0,0,,{\kf26}TO {\kf32}NOTICE {\kf28}THE {\kf26}LAST {\kf38}PERSON {\kf168}GO
+Dialogue: 0,0:04:57.99,0:04:59.91,Karaoke,,0,0,0,,{\kf24}AS {\kf18}THE {\kf22}STORY {\kf22}IS {\kf28}OFTEN {\kf36}TOLD
+Dialogue: 0,0:04:59.91,0:05:01.85,Karaoke,,0,0,0,,{\kf18}AND {\kf14}I {\kf30}CAN'T {\kf38}VERIFY {\kf38}EVERY {\kf38}DETAIL {\kf18}OF
+Dialogue: 0,0:05:01.85,0:05:03.75,Karaoke,,0,0,0,,{\kf16}THIS {\kf32}ONE {\kf10}BUT {\kf34}IT'S {\kf36}PERSISTENT {\kf42}ENOUGH {\kf20}TO
+Dialogue: 0,0:05:03.75,0:05:06.13,Karaoke,,0,0,0,,{\kf12}BE {\kf20}WORTH {\kf44}MENTIONING {\kf32}SOME {\kf40}HOMES {\kf24}WERE
+Dialogue: 0,0:05:06.13,0:05:10.17,Karaoke,,0,0,0,,{\kf28}LEFT {\kf176}MID-ROUTINE {\kf18}COFFEE {\kf32}CUPS {\kf30}STILL {\kf18}ON {\kf102}TABLES
+Dialogue: 0,0:05:10.17,0:05:12.63,Karaoke,,0,0,0,,{\kf44}SCHOOLBOOKS {\kf28}STILL {\kf40}OPEN {\kf18}ON {\kf116}DESKS
+Dialogue: 0,0:05:12.63,0:05:14.83,Karaoke,,0,0,0,,{\kf20}WHETHER {\kf40}THAT'S {\kf38}PRECISELY {\kf56}TRUE {\kf32}OR {\kf16}HAS {\kf18}BEEN
+Dialogue: 0,0:05:14.83,0:05:17.41,Karaoke,,0,0,0,,{\kf36}POLISHED {\kf28}BY {\kf42}SEVENTY {\kf26}YEARS {\kf16}OF {\kf92}RETELLING {\kf18}THE
+Dialogue: 0,0:05:17.41,0:05:19.07,Karaoke,,0,0,0,,{\kf40}SPIRIT {\kf20}OF {\kf12}IT {\kf38}MATCHES {\kf26}WHAT {\kf16}YOU {\kf14}CAN
+Dialogue: 0,0:05:19.07,0:05:21.87,Karaoke,,0,0,0,,{\kf34}STILL {\kf32}SEE {\kf94}TODAY {\kf14}A {\kf26}TOWN {\kf48}ABANDONED {\kf32}NOT
+Dialogue: 0,0:05:21.87,0:05:24.23,Karaoke,,0,0,0,,{\kf22}IN {\kf80}PANIC {\kf20}BUT {\kf14}IN {\kf10}THE {\kf66}UNHURRIED {\kf24}WAY
+Dialogue: 0,0:05:24.23,0:05:27.37,Karaoke,,0,0,0,,{\kf32}PEOPLE {\kf32}LEAVE {\kf14}A {\kf24}PLACE {\kf24}THEY {\kf94}ASSUME {\kf94}WRONGLY
+Dialogue: 0,0:05:27.37,0:05:29.34,Karaoke,,0,0,0,,{\kf10}THEY {\kf20}MIGHT {\kf26}COME {\kf22}BACK {\kf119}TO
+Dialogue: 0,0:05:29.34,0:05:32.95,Karaoke,,0,0,0,,{\kf50}NOBODY {\kf30}CAME {\kf94}BACK {\kf32}THE {\kf26}DESERT {\kf129}DID
+Dialogue: 0,0:05:32.95,0:05:36.01,Karaoke,,0,0,0,,{\kf32}THE {\kf52}NAMIB'S {\kf18}WIND {\kf52}NEVER {\kf36}STOPPED {\kf38}MOVING {\kf78}SAND
+Dialogue: 0,0:05:36.01,0:05:37.51,Karaoke,,0,0,0,,{\kf28}AND {\kf14}WITH {\kf20}NO {\kf16}ONE {\kf26}LEFT {\kf18}TO {\kf28}SWEEP
+Dialogue: 0,0:05:37.51,0:05:40.76,Karaoke,,0,0,0,,{\kf20}THE {\kf88}DOORSTEPS {\kf12}IT {\kf44}SIMPLY {\kf34}WALKED {\kf127}IN
+Dialogue: 0,0:05:40.76,0:05:43.87,Karaoke,,0,0,0,,{\kf66}TODAY {\kf18}SOME {\kf26}OF {\kf31}KOLMANSKOP'S {\kf90}GRANDEST {\kf32}ROOMS
+Dialogue: 0,0:05:43.87,0:05:46.27,Karaoke,,0,0,0,,{\kf14}THE {\kf78}BALLROOM {\kf5}THE {\kf72}HOSPITAL {\kf6}THE {\kf46}MANAGER'S {\kf20}HOUSE
+Dialogue: 0,0:05:46.27,0:05:48.83,Karaoke,,0,0,0,,{\kf16}ARE {\kf32}FILLED {\kf76}KNEE-DEEP {\kf26}OR {\kf34}HIGHER {\kf30}WITH
+Dialogue: 0,0:05:48.83,0:05:51.57,Karaoke,,0,0,0,,{\kf36}DRIFTED {\kf84}SAND {\kf30}SPILLING {\kf28}IN {\kf24}THROUGH {\kf38}EMPTY {\kf34}WINDOW
+Dialogue: 0,0:05:51.57,0:05:54.09,Karaoke,,0,0,0,,{\kf28}FRAMES {\kf28}IN {\kf24}SHAPES {\kf20}THAT {\kf16}LOOK {\kf34}ALMOST {\kf102}DELIBERATE
+Dialogue: 0,0:05:54.09,0:05:55.99,Karaoke,,0,0,0,,{\kf16}LIKE {\kf16}THE {\kf24}DESERT {\kf88}REDECORATED {\kf18}ON {\kf12}ITS {\kf16}WAY
+Dialogue: 0,0:05:55.99,0:06:00.61,Karaoke,,0,0,0,,{\kf92}THROUGH {\kf34}THE {\kf38}BOWLING {\kf34}ALLEY {\kf40}STILL {\kf94}STANDS {\kf130}SILENT
+Dialogue: 0,0:06:00.61,0:06:03.17,Karaoke,,0,0,0,,{\kf22}THE {\kf56}HOSPITAL'S {\kf40}X-RAY {\kf30}ROOM {\kf26}IS {\kf20}STILL {\kf62}THERE
+Dialogue: 0,0:06:03.17,0:06:05.15,Karaoke,,0,0,0,,{\kf26}HOLDING {\kf20}A {\kf24}VERY {\kf52}DIFFERENT {\kf32}KIND {\kf16}OF {\kf28}MEMORY
+Dialogue: 0,0:06:05.15,0:06:07.33,Karaoke,,0,0,0,,{\kf24}THAN {\kf10}IT {\kf22}ONCE {\kf102}DID {\kf34}AND {\kf12}IN {\kf14}THE
+Dialogue: 0,0:06:07.33,0:06:11.07,Karaoke,,0,0,0,,{\kf46}OUTER {\kf108}LESS-VISITED {\kf116}BUILDINGS {\kf22}SOMETHING {\kf32}ELSE {\kf28}HAS {\kf22}MOVED
+Dialogue: 0,0:06:11.07,0:06:14.81,Karaoke,,0,0,0,,{\kf86}IN {\kf48}BROWN {\kf122}HYENAS {\kf32}DENNING {\kf14}IN {\kf14}THE {\kf58}COOL
+Dialogue: 0,0:06:14.81,0:06:17.15,Karaoke,,0,0,0,,{\kf38}SHADED {\kf40}ROOMS {\kf26}THE {\kf24}DESERT {\kf38}HASN'T {\kf32}FULLY {\kf36}CLAIMED
+Dialogue: 0,0:06:17.15,0:06:20.22,Karaoke,,0,0,0,,{\kf181}YET {\kf12}A {\kf36}MUSEUM {\kf26}WAS {\kf18}SET {\kf18}UP {\kf16}IN
+Dialogue: 0,0:06:20.22,0:06:23.58,Karaoke,,0,0,0,,{\kf128}1980 {\kf8}AND {\kf38}TODAY {\kf88}KOLMANSKOP {\kf22}IS {\kf12}A {\kf40}PROTECTED
+Dialogue: 0,0:06:23.58,0:06:25.68,Karaoke,,0,0,0,,{\kf40}SITE {\kf14}YOU {\kf10}NEED {\kf16}A {\kf30}PERMIT {\kf34}EVEN
+Dialogue: 0,0:06:25.68,0:06:27.86,Karaoke,,0,0,0,,{\kf16}TO {\kf20}WALK {\kf58}IN {\kf24}BECAUSE {\kf18}IT {\kf42}TECHNICALLY {\kf40}STILL
+Dialogue: 0,0:06:27.86,0:06:31.00,Karaoke,,0,0,0,,{\kf40}SITS {\kf38}INSIDE {\kf18}THE {\kf24}OLD {\kf48}RESTRICTED {\kf48}DIAMOND {\kf98}AREA
+Dialogue: 0,0:06:31.00,0:06:34.17,Karaoke,,0,0,0,,{\kf8}THE {\kf143}SPERRGEBIET {\kf28}WHICH {\kf22}MEANS {\kf22}THE {\kf34}GROUND {\kf60}UNDERNEATH
+Dialogue: 0,0:06:34.17,0:06:37.93,Karaoke,,0,0,0,,{\kf34}THOSE {\kf48}SAND-FILLED {\kf50}FLOORS {\kf100}MAY {\kf28}EVEN {\kf98}NOW {\kf18}STILL
+Dialogue: 0,0:06:37.93,0:06:39.49,Karaoke,,0,0,0,,{\kf20}BE {\kf28}HOLDING {\kf20}A {\kf28}FEW {\kf20}OF {\kf12}THE {\kf28}STONES
+Dialogue: 0,0:06:39.49,0:06:40.95,Karaoke,,0,0,0,,{\kf30}THAT {\kf14}BUILT {\kf18}THE {\kf26}WHOLE {\kf30}TOWN {\kf18}IN {\kf10}THE
+Dialogue: 0,0:06:40.95,0:06:45.16,Karaoke,,0,0,0,,{\kf18}FIRST {\kf40}PLACE {\kf237}KOLMANSKOP {\kf32}DIDN'T {\kf26}FALL {\kf22}TO {\kf46}WAR
+Dialogue: 0,0:06:45.16,0:06:49.00,Karaoke,,0,0,0,,{\kf28}OR {\kf48}DISASTER {\kf72}OR {\kf24}ANY {\kf46}SINGLE {\kf50}DRAMATIC {\kf116}EVENT
+Dialogue: 0,0:06:49.00,0:06:50.44,Karaoke,,0,0,0,,{\kf16}IT {\kf24}FELL {\kf20}TO {\kf16}THE {\kf24}SAME {\kf28}THING {\kf16}THAT
+Dialogue: 0,0:06:50.44,0:06:52.98,Karaoke,,0,0,0,,{\kf34}RAISED {\kf38}IT {\kf22}THE {\kf32}GROUND {\kf42}SIMPLY {\kf38}STOPPED
+Dialogue: 0,0:06:52.98,0:06:55.50,Karaoke,,0,0,0,,{\kf30}GIVING {\kf22}UP {\kf84}DIAMONDS {\kf34}AND {\kf40}EVERYONE {\kf26}WHO'D {\kf16}COME
+Dialogue: 0,0:06:55.50,0:06:58.74,Karaoke,,0,0,0,,{\kf18}FOR {\kf12}THE {\kf32}DIAMONDS {\kf148}LEFT {\kf48}WHAT'S {\kf22}STRANGE {\kf44}ISN'T
+Dialogue: 0,0:06:58.74,0:07:00.44,Karaoke,,0,0,0,,{\kf14}THAT {\kf14}A {\kf26}MINING {\kf32}TOWN {\kf84}DIED
+Dialogue: 0,0:07:00.44,0:07:03.34,Karaoke,,0,0,0,,{\kf44}IT'S {\kf12}WHAT {\kf12}IT {\kf22}LEFT {\kf114}BEHIND {\kf30}A {\kf56}BALLROOM
+Dialogue: 0,0:07:03.34,0:07:05.86,Karaoke,,0,0,0,,{\kf26}BUILT {\kf30}FOR {\kf104}WALTZES {\kf16}BURIED {\kf26}IN {\kf32}SAND {\kf18}IT
+Dialogue: 0,0:07:05.86,0:07:08.70,Karaoke,,0,0,0,,{\kf10}WAS {\kf30}NEVER {\kf28}BUILT {\kf18}TO {\kf198}HOLD
+Dialogue: 0,0:07:08.70,0:07:11.24,Karaoke,,0,0,0,,{\kf34}SOMEWHERE {\kf24}OUT {\kf20}THERE {\kf112}TONIGHT {\kf12}WIND {\kf22}IS {\kf30}MOVING
+Dialogue: 0,0:07:11.24,0:07:13.20,Karaoke,,0,0,0,,{\kf24}THROUGH {\kf20}A {\kf26}HOUSE {\kf44}NOBODY {\kf32}HAS {\kf24}SLEPT {\kf26}IN
+Dialogue: 0,0:07:13.20,0:07:16.69,Karaoke,,0,0,0,,{\kf16}FOR {\kf40}SEVENTY {\kf233}YEARS {\kf14}AND {\kf22}THAT'S {\kf12}WHERE {\kf12}THE
+Dialogue: 0,0:07:16.69,0:07:19.03,Karaoke,,0,0,0,,{\kf16}TRAIL {\kf26}GOES {\kf126}COLD {\kf16}I'LL {\kf14}LEAVE {\kf18}THE {\kf18}LANTERN
+Dialogue: 0,0:07:19.03,0:07:20.51,Karaoke,,0,0,0,,{\kf70}BURNING {\kf26}UNTIL {\kf24}NEXT {\kf28}TIME
