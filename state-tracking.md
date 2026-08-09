@@ -69,3 +69,14 @@ _Last updated: Week 1, Day 1_
 - **Caption style changed:** from single-word pop-in to phrase-based karaoke-style moving color highlight (amber sweep across a stable 4-7 word line) — matches current trending caption style (Submagic/Opus Clip/CapCut auto-caption look) and is far more forgiving of any residual small timing error than the old flashing-word style.
 - **New release:** github.com/TheKingDavid1/the-last-lantern/releases/tag/episode-01-kolmanskop-v2 (verified live before old local copy was deleted)
 - Recipe files added: `content/captions_longform_v2.ass`, `content/narration_audio/aligned_words_v2.json`, `content/narration_audio/word_timestamps_v2.json`
+
+## Claude research integration (Aug 9)
+- Received and reviewed 3 docs from Claude (content plan, audience expansion, hooks/structure playbook). Verified before adopting — caught one real error: the "start with the end" hook rule was a mischaracterization of MrBallen's actual technique (his real quote says the opposite — don't reveal the ending early). Corrected in `hooks-structure-playbook.md`.
+- Per user direction: restored Claude's original 8-episode calendar sequencing rather than my earlier resequenced version — Kolmanskop's "Episode 8" sleep-story slot stays reserved for a future distinct slow-retelling treatment, separate from the already-published pilot (Episode 1).
+- Consolidated into permanent docs: `hooks-structure-playbook.md`, `topic-bank-expanded.md`, `thumbnail-style-guide.md`, `content-calendar-8-week.md`, `audience-expansion-strategy.md`, `channel/warmup-checklist.md`.
+
+## v3 build (Aug 9)
+- Finalized Episode 1 thumbnail: forest-green accent (correct per style guide's "abandoned places" pillar color), one tension object (doorway + sand + light beam), logo watermark — `thumbnails/thumb_ep01_FINAL.jpg`
+- Added animated subscribe button (pulsing) + shaking bell icon to outro card, updated logo in both intro/outro cards to new colorful dark-accent version
+- Produced a low-data version (640x360, heavy compression) per explicit request to minimize mobile data during a rest period: 7.6MB vs. the v2's 91MB, captions confirmed still legible at this size
+- Release: github.com/TheKingDavid1/the-last-lantern/releases/tag/episode-01-kolmanskop-v3-lowdata (verified live)
