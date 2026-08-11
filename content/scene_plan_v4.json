@@ -1,0 +1,110 @@
+[
+ {
+  "start": 0.0,
+  "end": 14.09,
+  "image": "01-ballroom-sand.png",
+  "dur": 14.09
+ },
+ {
+  "start": 14.09,
+  "end": 21.49,
+  "image": "09-lantern-windowsill.png",
+  "dur": 7.4
+ },
+ {
+  "start": 21.49,
+  "end": 55.61,
+  "image": "08-wide-dunes-town.png",
+  "dur": 34.12
+ },
+ {
+  "start": 55.61,
+  "end": 126.22,
+  "image": "10-map-paper-texture.png",
+  "dur": 70.61
+ },
+ {
+  "start": 126.22,
+  "end": 154.92,
+  "image": "01-ballroom-sand.png",
+  "dur": 28.7
+ },
+ {
+  "start": 154.92,
+  "end": 214.36,
+  "image": "02-hospital-xray.png",
+  "dur": 59.44
+ },
+ {
+  "start": 214.36,
+  "end": 224.62,
+  "image": "03-house-exterior-dusk.png",
+  "dur": 10.26
+ },
+ {
+  "start": 224.62,
+  "end": 264.87,
+  "image": "07-tram-tracks-dusk.png",
+  "dur": 40.25
+ },
+ {
+  "start": 264.87,
+  "end": 271.49,
+  "image": "06-withered-garden.png",
+  "dur": 6.62
+ },
+ {
+  "start": 271.49,
+  "end": 308.17,
+  "image": "03-house-exterior-dusk.png",
+  "dur": 36.68
+ },
+ {
+  "start": 308.17,
+  "end": 331.66,
+  "image": "04-coffee-cup-stilllife.png",
+  "dur": 23.49
+ },
+ {
+  "start": 331.66,
+  "end": 344.01,
+  "image": "08-wide-dunes-town.png",
+  "dur": 12.35
+ },
+ {
+  "start": 344.01,
+  "end": 357.25,
+  "image": "01-ballroom-sand.png",
+  "dur": 13.24
+ },
+ {
+  "start": 357.25,
+  "end": 372.41,
+  "image": "05-bowling-alley.png",
+  "dur": 15.16
+ },
+ {
+  "start": 372.41,
+  "end": 379.08,
+  "image": "03-house-exterior-dusk.png",
+  "dur": 6.67
+ },
+ {
+  "start": 379.08,
+  "end": 404.22,
+  "image": "10-map-paper-texture.png",
+  "dur": 25.14
+ },
+ {
+  "start": 404.22,
+  "end": 437.11,
+  "image": "01-ballroom-sand.png",
+  "dur": 32.89
+ },
+ {
+  "start": 437.11,
+  "end": 440.51,
+  "image": "09-lantern-windowsill.png",
+  "dur": 3.4
+ }
+]
