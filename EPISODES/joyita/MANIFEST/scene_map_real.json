@@ -1,0 +1,56 @@
+[
+ {
+  "scene": "Scene 01 - The Cork Paradox (FLOW slot 1)",
+  "start": 0.0,
+  "end": 46.26,
+  "dur": 46.26
+ },
+ {
+  "scene": "Scene 02 - Dock at Apia",
+  "start": 46.26,
+  "end": 62.36,
+  "dur": 16.1
+ },
+ {
+  "scene": "Scene 03 - Cargo & Cash Detail",
+  "start": 62.36,
+  "end": 111.9,
+  "dur": 49.54
+ },
+ {
+  "scene": "Scene 04 - The Discovery",
+  "start": 111.9,
+  "end": 157.83,
+  "dur": 45.93
+ },
+ {
+  "scene": "Scene 05 - Open Medical Bag (FLOW slot 2)",
+  "start": 157.83,
+  "end": 188.55,
+  "dur": 30.72
+ },
+ {
+  "scene": "Scene 06 - Shorted Radio Wire",
+  "start": 188.55,
+  "end": 224.05,
+  "dur": 35.5
+ },
+ {
+  "scene": "Scene 07 - Flooded Engine Room",
+  "start": 224.05,
+  "end": 271.8,
+  "dur": 47.75
+ },
+ {
+  "scene": "Scene 08 - Leaving the Ship (FLOW slot 3)",
+  "start": 271.8,
+  "end": 367.05,
+  "dur": 95.25
+ },
+ {
+  "scene": "Scene 09 - Deserted Beach & Legacy",
+  "start": 367.05,
+  "end": 443.57,
+  "dur": 76.52
+ }
+]

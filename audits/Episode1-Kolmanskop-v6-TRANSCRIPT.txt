@@ -1,0 +1,107 @@
+THE LAST LANTERN — Episode 1: Kolmanskop (v6, ARCHIVED) — Verified Transcript for Audit
+==========================================================================================
+Video file: TheLastLantern-Ep01-Kolmanskop-v6.mp4
+GitHub: https://github.com/TheKingDavid1/the-last-lantern/releases/tag/episode-01-kolmanskop-v6
+Total runtime: 07:36.52 (456.52s)
+
+SOURCE NOTE FOR AUDITOR: This transcript is built from verified word-level forced-alignment
+(faster-whisper small.en + VAD, sequence-matched against the original ground-truth script —
+NOT auto-generated captions guessed blind from audio). Direct match rate against the original
+script: 96%, remainder linearly interpolated between matched anchor words. Treat text content
+as ground truth; treat exact sub-second timestamps as accurate to within approximately 0.1-0.2s.
+
+------------------------------------------------------------------------------------------
+NARRATION
+------------------------------------------------------------------------------------------
+[00:00.00] This was once one of the richest towns on the entire African continent.
+[00:05.44] Today, the desert is finishing what the Diamond Rush started, and some of its grandest rooms are buried in sand up to the ceiling.
+[00:14.09] Light the lantern.
+[00:15.83] This one's been waiting a long time to be told.
+[00:20.27] Somewhere in the south of Namibia, past the last paved road, there's a town where the desert comes in through the front door.
+[00:28.25] Not metaphorically — literally.
+[00:31.63] Sand, in drifts taller than a person, spilling through doorways and window frames, filling ballrooms and hospital wards and bowling alleys, one grain at a time, for almost seventy years.
+[00:45.18] It has a name.
+[00:46.92] Kolmanskop.
+[00:47.90] And once, it was one of the richest towns on the entire African continent.
+[00:53.70] Get comfortable.
+[00:54.93] Let's go back to the beginning.
+[00:57.74] In 1908, a railway worker named Zacharias Lewala was clearing sand from the tracks near a small settlement in what was then German South West Africa — the territory we now know as Namibia.
+[01:09.86] He picked up a stone.
+[01:11.50] It caught the light strangely.
+[01:13.74] He showed it to his supervisor, a man named August Stauch, who had a hunch worth acting on.
+[01:19.53] The stone was a diamond.
+[01:22.20] And it wasn't the only one lying in that sand.
+[01:24.72] Word spread the way it always does with diamonds — fast, and without much regard for who found the first one.
+[01:33.39] Within a few years, prospectors were reportedly picking stones straight off the desert floor, sometimes by moonlight, so they wouldn't be seen by rivals doing the same thing.
+[01:42.69] Lewala, the man who found the very first stone, doesn't get a statue anywhere.
+[01:49.35] He isn't recorded as having profited from what he found.
+[01:52.87] That's just the first of several details about this place that sit a little uncomfortably once you know them.
+[01:59.84] What grew out of that discovery wasn't a mining camp.
+[02:03.82] It was, improbably, a small European town — dropped into one of the driest, most hostile deserts on Earth.
+[02:13.20] The German settlers who built Kolmanskop didn't try to adapt to the desert around them.
+[02:18.36] They tried to ignore it.
+[02:20.26] They imported soil for gardens.
+[02:22.80] They imported water to keep the gardens alive.
+[02:25.68] They built a ballroom, a theater, a casino, an ice factory, and a Kegelbahn — a bowling alley — for evening entertainment.
+[02:34.24] They built a hospital that housed the first X-ray machine anywhere in the southern hemisphere.
+[02:40.11] That last detail sounds like a mark of progress.
+[02:43.53] It wasn't entirely.
+[02:45.85] The X-ray machine's main job wasn't treating broken bones.
+[02:49.53] It was checking workers — overwhelmingly the African laborers who did the physical work of mining, not the German residents who ran the town — for diamonds they might have swallowed or hidden to smuggle out.
+[03:01.77] Some workers reportedly went to remarkable lengths to get a stone past the checkpoint anyway; one account has a smuggled diamond strapped to a carrier pigeon, intercepted only because the bird stopped mid-flight to rest.
+[03:15.11] I find that detail tells you more about Kolmanskop than the ballroom does.
+[03:19.83] Behind the velvet curtains and imported roses, this was still a company town built entirely around extraction — and it never really let anyone forget that.
+[03:30.34] For a while, though, Kolmanskop was, by the standards of the time, spectacular.
+[03:35.32] At its height in the 1920s, several hundred German residents and around 800 Owambo contract workers lived there.
+[03:42.90] It's said to have had Africa's first tram line, running out to the coastal town of Lüderitz.
+[03:48.08] Between 1908 and the start of the First World War, millions of carats of diamonds were pulled from the ground around it.
+[03:55.04] It shouldn't have worked.
+[03:56.30] A wealthy European town, full of gardens and champagne, sitting in a desert that gets less rainfall in a year than some cities get in a single afternoon.
+[04:06.32] For about two decades, it worked anyway.
+[04:10.39] Diamonds, it turns out, don't stay loyal to one town.
+[04:14.45] After the First World War, diamond prices dropped.
+[04:17.31] Then, in 1928, richer, easier-to-reach deposits were discovered farther south, along the beaches near the Orange River, at a place called Oranjemund.
+[04:26.15] The miners followed the diamonds, the way they always had.
+[04:29.69] One by one, families packed up.
+[04:33.13] Historians still argue about exactly when the last resident finally locked their door — some accounts say 1954, others put it a couple of years later, in 1956.
+[04:44.45] What isn't in dispute is how the town emptied: not in a single dramatic evacuation, but slowly, house by house, until there was no one left to notice the last person go.
+[04:57.99] As the story is often told — and I can't verify every detail of this one, but it's persistent enough to be worth mentioning — some homes were left mid-routine.
+[05:08.17] Coffee cups still on tables.
+[05:10.17] Schoolbooks still open on desks.
+[05:12.63] Whether that's precisely true or has been polished by seventy years of retelling, the spirit of it matches what you can still see today: a town abandoned not in panic, but in the unhurried way people leave a place they assume, wrongly, they might come back to.
+[05:29.34] Nobody came back.
+[05:31.08] The desert did.
+[05:32.95] The Namib's wind never stopped moving sand, and with no one left to sweep the doorsteps, it simply walked in.
+[05:40.76] Today, some of Kolmanskop's grandest rooms — the ballroom, the hospital, the manager's house — are filled knee-deep or higher with drifted sand, spilling in through empty window frames in shapes that look almost deliberate, like the desert redecorated on its way through.
+[05:56.91] The bowling alley still stands, silent.
+[06:00.61] The hospital's X-ray room is still there, holding a very different kind of memory than it once did.
+[06:06.73] And in the outer, less-visited buildings, something else has moved in: brown hyenas, denning in the cool, shaded rooms the desert hasn't fully claimed yet.
+[06:18.96] A museum was set up in 1980, and today Kolmanskop is a protected site — you need a permit even to walk in, because it technically still sits inside the old restricted diamond area, the Sperrgebiet.
+[06:32.51] Which means the ground underneath those sand-filled floors may, even now, still be holding a few of the stones that built the whole town in the first place.
+[06:41.53] Kolmanskop didn't fall to war, or disaster, or any single dramatic event.
+[06:49.00] It fell to the same thing that raised it — the ground simply stopped giving up diamonds, and everyone who'd come for the diamonds left.
+[06:57.60] What's strange isn't that a mining town died.
+[07:00.44] It's what it left behind: a ballroom built for waltzes, buried in sand it was never built to hold.
+[07:08.70] Somewhere out there tonight, wind is moving through a house nobody has slept in for seventy years.
+[07:16.09] ...and that's where the trail goes cold.
+[07:18.37] I'll leave the lantern burning until next time.
+
+------------------------------------------------------------------------------------------
+[07:20.51–07:29.19] — OUTRO (no dialogue)
+------------------------------------------------------------------------------------------
+Approved master Lantern Outro clip plays (AI-generated motion clip, brass hurricane lantern
+consistent with established brand asset). The lantern's flame extinguishes naturally, fading
+to full black. Ambient/atmospheric sound only — no narration, no music sting.
+
+------------------------------------------------------------------------------------------
+[07:29.19–07:36.52] — CTA (no dialogue)
+------------------------------------------------------------------------------------------
+Approved CTA clip plays: brief AI-generated motion opens on a lantern (note for auditor: this
+lantern's design does not match the established brass hurricane lantern used everywhere else —
+known, previously-flagged minor asset inconsistency, not a new issue), then transitions to a
+clean glowing rounded-rectangle frame graphic. The approved SUBSCRIBE SVG (red rounded-rect
+button, white text) fades in and settles inside the frame. No bell asset is present in this
+cut (not yet supplied at time of production). No narration.
+
+==========================================================================================
+END OF TRANSCRIPT — total runtime 07:36.52 (456.52s)
