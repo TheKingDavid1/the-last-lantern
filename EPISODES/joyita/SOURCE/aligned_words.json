@@ -1,0 +1,5237 @@
+[
+ {
+  "word": "In",
+  "start": 0.0,
+  "end": 0.42
+ },
+ {
+  "word": "November",
+  "start": 0.42,
+  "end": 0.74
+ },
+ {
+  "word": "1955,",
+  "start": 0.74,
+  "end": 1.86
+ },
+ {
+  "word": "a",
+  "start": 2.5,
+  "end": 2.68
+ },
+ {
+  "word": "70-foot",
+  "start": 2.68,
+  "end": 3.04
+ },
+ {
+  "word": "merchant",
+  "start": 3.4,
+  "end": 3.86
+ },
+ {
+  "word": "ship",
+  "start": 3.86,
+  "end": 4.3
+ },
+ {
+  "word": "was",
+  "start": 4.3,
+  "end": 4.52
+ },
+ {
+  "word": "found",
+  "start": 4.52,
+  "end": 4.84
+ },
+ {
+  "word": "drifting",
+  "start": 4.84,
+  "end": 5.34
+ },
+ {
+  "word": "six",
+  "start": 5.34,
+  "end": 5.56
+ },
+ {
+  "word": "hundred",
+  "start": 5.56,
+  "end": 5.78
+ },
+ {
+  "word": "miles",
+  "start": 6.0,
+  "end": 6.54
+ },
+ {
+  "word": "off",
+  "start": 6.54,
+  "end": 6.92
+ },
+ {
+  "word": "course",
+  "start": 6.92,
+  "end": 7.2
+ },
+ {
+  "word": "in",
+  "start": 7.2,
+  "end": 7.44
+ },
+ {
+  "word": "the",
+  "start": 7.44,
+  "end": 7.56
+ },
+ {
+  "word": "South",
+  "start": 7.56,
+  "end": 7.74
+ },
+ {
+  "word": "Pacific.",
+  "start": 7.74,
+  "end": 8.22
+ },
+ {
+  "word": "Her",
+  "start": 8.92,
+  "end": 9.14
+ },
+ {
+  "word": "four",
+  "start": 9.14,
+  "end": 9.48
+ },
+ {
+  "word": "tons",
+  "start": 9.48,
+  "end": 9.78
+ },
+ {
+  "word": "of",
+  "start": 9.78,
+  "end": 10.1
+ },
+ {
+  "word": "cargo",
+  "start": 10.1,
+  "end": 10.48
+ },
+ {
+  "word": "remained",
+  "start": 10.48,
+  "end": 10.92
+ },
+ {
+  "word": "in",
+  "start": 10.92,
+  "end": 11.14
+ },
+ {
+  "word": "the",
+  "start": 11.14,
+  "end": 11.28
+ },
+ {
+  "word": "hold.",
+  "start": 11.28,
+  "end": 11.56
+ },
+ {
+  "word": "A",
+  "start": 12.08,
+  "end": 12.32
+ },
+ {
+  "word": "considerable",
+  "start": 12.32,
+  "end": 12.76
+ },
+ {
+  "word": "amount",
+  "start": 12.76,
+  "end": 13.12
+ },
+ {
+  "word": "of",
+  "start": 13.12,
+  "end": 13.34
+ },
+ {
+  "word": "cash",
+  "start": 13.34,
+  "end": 13.72
+ },
+ {
+  "word": "carried",
+  "start": 13.72,
+  "end": 14.12
+ },
+ {
+  "word": "by",
+  "start": 14.12,
+  "end": 14.34
+ },
+ {
+  "word": "a",
+  "start": 14.34,
+  "end": 14.48
+ },
+ {
+  "word": "passenger",
+  "start": 14.48,
+  "end": 14.92
+ },
+ {
+  "word": "sat",
+  "start": 14.92,
+  "end": 15.4
+ },
+ {
+  "word": "untouched",
+  "start": 15.4,
+  "end": 16.08
+ },
+ {
+  "word": "in",
+  "start": 16.08,
+  "end": 16.36
+ },
+ {
+  "word": "a",
+  "start": 16.36,
+  "end": 16.5
+ },
+ {
+  "word": "cabin",
+  "start": 16.5,
+  "end": 16.7
+ },
+ {
+  "word": "drawer.",
+  "start": 16.7,
+  "end": 17.12
+ },
+ {
+  "word": "And",
+  "start": 17.86,
+  "end": 18.1
+ },
+ {
+  "word": "her",
+  "start": 18.1,
+  "end": 18.28
+ },
+ {
+  "word": "hull",
+  "start": 18.28,
+  "end": 18.54
+ },
+ {
+  "word": "was",
+  "start": 18.54,
+  "end": 18.74
+ },
+ {
+  "word": "lined",
+  "start": 18.74,
+  "end": 19.06
+ },
+ {
+  "word": "with",
+  "start": 19.06,
+  "end": 19.34
+ },
+ {
+  "word": "thick",
+  "start": 19.34,
+  "end": 19.66
+ },
+ {
+  "word": "slabs",
+  "start": 19.66,
+  "end": 20.12
+ },
+ {
+  "word": "of",
+  "start": 20.12,
+  "end": 20.28
+ },
+ {
+  "word": "solid",
+  "start": 20.28,
+  "end": 20.72
+ },
+ {
+  "word": "cork\u2014making",
+  "start": 20.72,
+  "end": 21.24
+ },
+ {
+  "word": "it",
+  "start": 21.76,
+  "end": 21.96
+ },
+ {
+  "word": "physically",
+  "start": 21.96,
+  "end": 22.38
+ },
+ {
+  "word": "impossible",
+  "start": 22.38,
+  "end": 23.02
+ },
+ {
+  "word": "for",
+  "start": 23.02,
+  "end": 23.42
+ },
+ {
+  "word": "the",
+  "start": 23.42,
+  "end": 23.52
+ },
+ {
+  "word": "vessel",
+  "start": 23.52,
+  "end": 23.72
+ },
+ {
+  "word": "to",
+  "start": 23.72,
+  "end": 23.98
+ },
+ {
+  "word": "sink.",
+  "start": 23.98,
+  "end": 24.26
+ },
+ {
+  "word": "Even",
+  "start": 24.96,
+  "end": 25.32
+ },
+ {
+  "word": "filled",
+  "start": 25.32,
+  "end": 25.7
+ },
+ {
+  "word": "completely",
+  "start": 25.7,
+  "end": 26.28
+ },
+ {
+  "word": "with",
+  "start": 26.28,
+  "end": 26.58
+ },
+ {
+  "word": "seawater,",
+  "start": 26.58,
+  "end": 27.24
+ },
+ {
+  "word": "she",
+  "start": 27.64,
+  "end": 27.72
+ },
+ {
+  "word": "was",
+  "start": 27.72,
+  "end": 27.86
+ },
+ {
+  "word": "built",
+  "start": 27.86,
+  "end": 28.06
+ },
+ {
+  "word": "to",
+  "start": 28.06,
+  "end": 28.3
+ },
+ {
+  "word": "stay",
+  "start": 28.3,
+  "end": 28.58
+ },
+ {
+  "word": "afloat",
+  "start": 28.58,
+  "end": 28.96
+ },
+ {
+  "word": "forever.",
+  "start": 28.96,
+  "end": 29.48
+ },
+ {
+  "word": "Yet,",
+  "start": 30.7,
+  "end": 30.9
+ },
+ {
+  "word": "when",
+  "start": 31.08,
+  "end": 31.26
+ },
+ {
+  "word": "rescuers",
+  "start": 31.26,
+  "end": 31.54
+ },
+ {
+  "word": "stepped",
+  "start": 31.82,
+  "end": 32.14
+ },
+ {
+  "word": "onto",
+  "start": 32.14,
+  "end": 32.38
+ },
+ {
+  "word": "the",
+  "start": 32.38,
+  "end": 32.54
+ },
+ {
+  "word": "slippery",
+  "start": 32.54,
+  "end": 32.9
+ },
+ {
+  "word": "wooden",
+  "start": 32.9,
+  "end": 33.2
+ },
+ {
+  "word": "deck...",
+  "start": 33.2,
+  "end": 33.6
+ },
+ {
+  "word": "not",
+  "start": 34.08,
+  "end": 34.28
+ },
+ {
+  "word": "a",
+  "start": 34.28,
+  "end": 34.5
+ },
+ {
+  "word": "single",
+  "start": 34.5,
+  "end": 34.86
+ },
+ {
+  "word": "soul",
+  "start": 34.86,
+  "end": 35.28
+ },
+ {
+  "word": "remained",
+  "start": 35.28,
+  "end": 35.66
+ },
+ {
+  "word": "on",
+  "start": 35.66,
+  "end": 35.9
+ },
+ {
+  "word": "board.",
+  "start": 35.9,
+  "end": 36.18
+ },
+ {
+  "word": "All",
+  "start": 36.82,
+  "end": 37.18
+ },
+ {
+  "word": "twenty-five",
+  "start": 37.18,
+  "end": 37.54
+ },
+ {
+  "word": "men,",
+  "start": 37.9,
+  "end": 38.38
+ },
+ {
+  "word": "women,",
+  "start": 38.64,
+  "end": 38.8
+ },
+ {
+  "word": "and",
+  "start": 38.8,
+  "end": 39.08
+ },
+ {
+  "word": "children",
+  "start": 39.08,
+  "end": 39.46
+ },
+ {
+  "word": "had",
+  "start": 39.46,
+  "end": 39.74
+ },
+ {
+  "word": "vanished",
+  "start": 39.74,
+  "end": 40.22
+ },
+ {
+  "word": "into",
+  "start": 40.22,
+  "end": 40.54
+ },
+ {
+  "word": "thin",
+  "start": 40.54,
+  "end": 40.84
+ },
+ {
+  "word": "air.",
+  "start": 40.84,
+  "end": 41.16
+ },
+ {
+  "word": "Leaving",
+  "start": 41.68,
+  "end": 41.94
+ },
+ {
+  "word": "an",
+  "start": 41.94,
+  "end": 42.18
+ },
+ {
+  "word": "unsinkable",
+  "start": 42.18,
+  "end": 42.9
+ },
+ {
+  "word": "ship...",
+  "start": 42.9,
+  "end": 43.26
+ },
+ {
+  "word": "floating",
+  "start": 43.26,
+  "end": 44.0
+ },
+ {
+  "word": "in",
+  "start": 44.0,
+  "end": 44.4
+ },
+ {
+  "word": "total",
+  "start": 44.4,
+  "end": 44.78
+ },
+ {
+  "word": "silence.",
+  "start": 44.78,
+  "end": 45.24
+ },
+ {
+  "word": "To",
+  "start": 46.26,
+  "end": 46.6
+ },
+ {
+  "word": "understand",
+  "start": 46.6,
+  "end": 47.12
+ },
+ {
+  "word": "how",
+  "start": 47.12,
+  "end": 47.36
+ },
+ {
+  "word": "twenty-five",
+  "start": 47.36,
+  "end": 47.69
+ },
+ {
+  "word": "people",
+  "start": 48.02,
+  "end": 48.5
+ },
+ {
+  "word": "disappeared",
+  "start": 48.5,
+  "end": 49.02
+ },
+ {
+  "word": "from",
+  "start": 49.02,
+  "end": 49.26
+ },
+ {
+  "word": "a",
+  "start": 49.26,
+  "end": 49.38
+ },
+ {
+  "word": "boat",
+  "start": 49.38,
+  "end": 49.56
+ },
+ {
+  "word": "that",
+  "start": 49.56,
+  "end": 49.76
+ },
+ {
+  "word": "couldn't",
+  "start": 49.76,
+  "end": 50.14
+ },
+ {
+  "word": "sink,",
+  "start": 50.14,
+  "end": 50.48
+ },
+ {
+  "word": "we",
+  "start": 51.08,
+  "end": 51.16
+ },
+ {
+  "word": "have",
+  "start": 51.16,
+  "end": 51.32
+ },
+ {
+  "word": "to",
+  "start": 51.32,
+  "end": 51.46
+ },
+ {
+  "word": "go",
+  "start": 51.46,
+  "end": 51.56
+ },
+ {
+  "word": "back",
+  "start": 51.56,
+  "end": 51.74
+ },
+ {
+  "word": "to",
+  "start": 51.74,
+  "end": 51.9
+ },
+ {
+  "word": "midnight",
+  "start": 51.9,
+  "end": 52.32
+ },
+ {
+  "word": "on",
+  "start": 52.32,
+  "end": 52.62
+ },
+ {
+  "word": "October",
+  "start": 52.62,
+  "end": 52.98
+ },
+ {
+  "word": "3rd,",
+  "start": 52.98,
+  "end": 53.78
+ },
+ {
+  "word": "1955.",
+  "start": 53.88,
+  "end": 54.62
+ },
+ {
+  "word": "In",
+  "start": 55.74,
+  "end": 56.12
+ },
+ {
+  "word": "the",
+  "start": 56.12,
+  "end": 56.28
+ },
+ {
+  "word": "harbor",
+  "start": 56.28,
+  "end": 56.37
+ },
+ {
+  "word": "of",
+  "start": 56.46,
+  "end": 56.8
+ },
+ {
+  "word": "Apia,",
+  "start": 56.8,
+  "end": 57.16
+ },
+ {
+  "word": "Samoa,",
+  "start": 57.4,
+  "end": 57.62
+ },
+ {
+  "word": "the",
+  "start": 58.22,
+  "end": 58.32
+ },
+ {
+  "word": "merchant",
+  "start": 58.32,
+  "end": 58.64
+ },
+ {
+  "word": "vessel",
+  "start": 58.64,
+  "end": 59.02
+ },
+ {
+  "word": "MV",
+  "start": 59.02,
+  "end": 59.58
+ },
+ {
+  "word": "Joyita",
+  "start": 59.58,
+  "end": 60.14
+ },
+ {
+  "word": "was",
+  "start": 60.14,
+  "end": 60.46
+ },
+ {
+  "word": "preparing",
+  "start": 60.46,
+  "end": 60.86
+ },
+ {
+  "word": "to",
+  "start": 60.86,
+  "end": 61.12
+ },
+ {
+  "word": "sail.",
+  "start": 61.12,
+  "end": 61.38
+ },
+ {
+  "word": "Her",
+  "start": 62.36,
+  "end": 62.5
+ },
+ {
+  "word": "captain",
+  "start": 62.5,
+  "end": 62.82
+ },
+ {
+  "word": "was",
+  "start": 62.82,
+  "end": 63.08
+ },
+ {
+  "word": "Thomas",
+  "start": 63.08,
+  "end": 63.5
+ },
+ {
+  "word": "\"Dusty\"",
+  "start": 63.5,
+  "end": 64.02
+ },
+ {
+  "word": "Miller\u2014a",
+  "start": 64.02,
+  "end": 64.433
+ },
+ {
+  "word": "hard-pressed",
+  "start": 64.433,
+  "end": 64.847
+ },
+ {
+  "word": "British",
+  "start": 65.26,
+  "end": 65.64
+ },
+ {
+  "word": "seaman",
+  "start": 65.64,
+  "end": 66.12
+ },
+ {
+  "word": "struggling",
+  "start": 66.12,
+  "end": 66.54
+ },
+ {
+  "word": "to",
+  "start": 66.54,
+  "end": 66.88
+ },
+ {
+  "word": "keep",
+  "start": 66.88,
+  "end": 67.02
+ },
+ {
+  "word": "his",
+  "start": 67.02,
+  "end": 67.2
+ },
+ {
+  "word": "charter",
+  "start": 67.2,
+  "end": 67.48
+ },
+ {
+  "word": "business",
+  "start": 67.48,
+  "end": 67.78
+ },
+ {
+  "word": "alive.",
+  "start": 67.78,
+  "end": 68.24
+ },
+ {
+  "word": "That",
+  "start": 68.84,
+  "end": 69.44
+ },
+ {
+  "word": "night,",
+  "start": 69.44,
+  "end": 69.74
+ },
+ {
+  "word": "the",
+  "start": 70.12,
+  "end": 70.12
+ },
+ {
+  "word": "Joyita",
+  "start": 70.12,
+  "end": 70.54
+ },
+ {
+  "word": "carried",
+  "start": 70.54,
+  "end": 70.84
+ },
+ {
+  "word": "a",
+  "start": 70.84,
+  "end": 70.98
+ },
+ {
+  "word": "routine",
+  "start": 70.98,
+  "end": 71.36
+ },
+ {
+  "word": "cargo:",
+  "start": 71.36,
+  "end": 71.82
+ },
+ {
+  "word": "fuel",
+  "start": 72.46,
+  "end": 72.62
+ },
+ {
+  "word": "drums,",
+  "start": 72.62,
+  "end": 72.96
+ },
+ {
+  "word": "timber,",
+  "start": 73.28,
+  "end": 73.62
+ },
+ {
+  "word": "sacks",
+  "start": 74.1,
+  "end": 74.16
+ },
+ {
+  "word": "of",
+  "start": 74.16,
+  "end": 74.44
+ },
+ {
+  "word": "copra,",
+  "start": 74.44,
+  "end": 74.8
+ },
+ {
+  "word": "and",
+  "start": 75.0,
+  "end": 75.1
+ },
+ {
+  "word": "medical",
+  "start": 75.1,
+  "end": 75.38
+ },
+ {
+  "word": "supplies.",
+  "start": 75.38,
+  "end": 75.8
+ },
+ {
+  "word": "Joining",
+  "start": 76.96,
+  "end": 77.24
+ },
+ {
+  "word": "Captain",
+  "start": 77.24,
+  "end": 77.5
+ },
+ {
+  "word": "Miller",
+  "start": 77.5,
+  "end": 77.78
+ },
+ {
+  "word": "were",
+  "start": 77.78,
+  "end": 78.0
+ },
+ {
+  "word": "sixteen",
+  "start": 78.0,
+  "end": 78.22
+ },
+ {
+  "word": "crew",
+  "start": 78.44,
+  "end": 78.78
+ },
+ {
+  "word": "members",
+  "start": 78.78,
+  "end": 79.08
+ },
+ {
+  "word": "and",
+  "start": 79.08,
+  "end": 79.42
+ },
+ {
+  "word": "nine",
+  "start": 79.42,
+  "end": 79.55
+ },
+ {
+  "word": "passengers.",
+  "start": 79.68,
+  "end": 80.2
+ },
+ {
+  "word": "Among",
+  "start": 81.02,
+  "end": 81.24
+ },
+ {
+  "word": "them",
+  "start": 81.24,
+  "end": 81.44
+ },
+ {
+  "word": "was",
+  "start": 81.44,
+  "end": 81.62
+ },
+ {
+  "word": "Dr.",
+  "start": 81.62,
+  "end": 81.84
+ },
+ {
+  "word": "Alfred",
+  "start": 82.08,
+  "end": 82.26
+ },
+ {
+  "word": "Parsons,",
+  "start": 82.26,
+  "end": 82.66
+ },
+ {
+  "word": "a",
+  "start": 83.22,
+  "end": 83.34
+ },
+ {
+  "word": "surgeon",
+  "start": 83.34,
+  "end": 83.58
+ },
+ {
+  "word": "rushing",
+  "start": 83.58,
+  "end": 84.02
+ },
+ {
+  "word": "to",
+  "start": 84.02,
+  "end": 84.26
+ },
+ {
+  "word": "Tokelau",
+  "start": 84.26,
+  "end": 84.5
+ },
+ {
+  "word": "to",
+  "start": 84.74,
+  "end": 84.88
+ },
+ {
+  "word": "perform",
+  "start": 84.88,
+  "end": 85.08
+ },
+ {
+  "word": "an",
+  "start": 85.08,
+  "end": 85.22
+ },
+ {
+  "word": "emergency",
+  "start": 85.22,
+  "end": 85.64
+ },
+ {
+  "word": "operation,",
+  "start": 85.64,
+  "end": 86.24
+ },
+ {
+  "word": "a",
+  "start": 86.86,
+  "end": 87.06
+ },
+ {
+  "word": "government",
+  "start": 87.06,
+  "end": 87.28
+ },
+ {
+  "word": "district",
+  "start": 87.28,
+  "end": 87.72
+ },
+ {
+  "word": "officer",
+  "start": 87.72,
+  "end": 88.1
+ },
+ {
+  "word": "named",
+  "start": 88.1,
+  "end": 88.34
+ },
+ {
+  "word": "R.",
+  "start": 88.34,
+  "end": 88.64
+ },
+ {
+  "word": "D.",
+  "start": 88.64,
+  "end": 88.84
+ },
+ {
+  "word": "Pearless,",
+  "start": 88.84,
+  "end": 89.31
+ },
+ {
+  "word": "and",
+  "start": 89.78,
+  "end": 89.88
+ },
+ {
+  "word": "an",
+  "start": 89.88,
+  "end": 90.0
+ },
+ {
+  "word": "unnamed",
+  "start": 90.0,
+  "end": 90.4
+ },
+ {
+  "word": "copra",
+  "start": 90.4,
+  "end": 90.88
+ },
+ {
+  "word": "buyer",
+  "start": 90.88,
+  "end": 91.18
+ },
+ {
+  "word": "carrying",
+  "start": 91.18,
+  "end": 91.6
+ },
+ {
+  "word": "a",
+  "start": 91.6,
+  "end": 92.02
+ },
+ {
+  "word": "considerable",
+  "start": 92.02,
+  "end": 92.22
+ },
+ {
+  "word": "amount",
+  "start": 92.22,
+  "end": 92.56
+ },
+ {
+  "word": "of",
+  "start": 92.56,
+  "end": 92.76
+ },
+ {
+  "word": "cash.",
+  "start": 92.76,
+  "end": 93.02
+ },
+ {
+  "word": "It",
+  "start": 93.52,
+  "end": 93.88
+ },
+ {
+  "word": "was",
+  "start": 93.88,
+  "end": 94.02
+ },
+ {
+  "word": "a",
+  "start": 94.02,
+  "end": 94.28
+ },
+ {
+  "word": "simple",
+  "start": 94.28,
+  "end": 94.64
+ },
+ {
+  "word": "two-hundred-and-seventy-mile",
+  "start": 94.64,
+  "end": 95.49
+ },
+ {
+  "word": "voyage",
+  "start": 96.34,
+  "end": 96.82
+ },
+ {
+  "word": "across",
+  "start": 96.82,
+  "end": 97.18
+ },
+ {
+  "word": "calm",
+  "start": 97.18,
+  "end": 97.78
+ },
+ {
+  "word": "ocean",
+  "start": 97.78,
+  "end": 98.2
+ },
+ {
+  "word": "routes.",
+  "start": 98.2,
+  "end": 98.58
+ },
+ {
+  "word": "It",
+  "start": 99.08,
+  "end": 99.16
+ },
+ {
+  "word": "should",
+  "start": 99.16,
+  "end": 99.32
+ },
+ {
+  "word": "have",
+  "start": 99.32,
+  "end": 99.44
+ },
+ {
+  "word": "taken",
+  "start": 99.44,
+  "end": 99.64
+ },
+ {
+  "word": "no",
+  "start": 99.64,
+  "end": 100.02
+ },
+ {
+  "word": "more",
+  "start": 100.02,
+  "end": 100.3
+ },
+ {
+  "word": "than",
+  "start": 100.3,
+  "end": 100.5
+ },
+ {
+  "word": "forty-eight",
+  "start": 100.5,
+  "end": 100.77
+ },
+ {
+  "word": "hours.",
+  "start": 101.04,
+  "end": 101.64
+ },
+ {
+  "word": "At",
+  "start": 102.38,
+  "end": 102.6
+ },
+ {
+  "word": "5:00",
+  "start": 102.6,
+  "end": 103.007
+ },
+ {
+  "word": "AM,",
+  "start": 103.007,
+  "end": 103.413
+ },
+ {
+  "word": "the",
+  "start": 103.82,
+  "end": 103.82
+ },
+ {
+  "word": "Joyita",
+  "start": 103.82,
+  "end": 104.28
+ },
+ {
+  "word": "slipped",
+  "start": 104.28,
+  "end": 104.62
+ },
+ {
+  "word": "out",
+  "start": 104.62,
+  "end": 104.98
+ },
+ {
+  "word": "into",
+  "start": 104.98,
+  "end": 105.22
+ },
+ {
+  "word": "the",
+  "start": 105.22,
+  "end": 105.33
+ },
+ {
+  "word": "dark",
+  "start": 105.44,
+  "end": 105.76
+ },
+ {
+  "word": "ocean.",
+  "start": 105.76,
+  "end": 106.24
+ },
+ {
+  "word": "She",
+  "start": 106.98,
+  "end": 107.14
+ },
+ {
+  "word": "was",
+  "start": 107.14,
+  "end": 107.28
+ },
+ {
+  "word": "scheduled",
+  "start": 107.28,
+  "end": 107.56
+ },
+ {
+  "word": "to",
+  "start": 107.56,
+  "end": 107.88
+ },
+ {
+  "word": "dock",
+  "start": 107.88,
+  "end": 108.02
+ },
+ {
+  "word": "on",
+  "start": 108.02,
+  "end": 108.3
+ },
+ {
+  "word": "October",
+  "start": 108.3,
+  "end": 108.68
+ },
+ {
+  "word": "5th.",
+  "start": 108.68,
+  "end": 109.32
+ },
+ {
+  "word": "She",
+  "start": 109.76,
+  "end": 109.96
+ },
+ {
+  "word": "never",
+  "start": 109.96,
+  "end": 110.26
+ },
+ {
+  "word": "arrived.",
+  "start": 110.26,
+  "end": 110.92
+ },
+ {
+  "word": "For",
+  "start": 111.9,
+  "end": 112.1
+ },
+ {
+  "word": "five",
+  "start": 112.1,
+  "end": 112.56
+ },
+ {
+  "word": "weeks,",
+  "start": 112.56,
+  "end": 113.06
+ },
+ {
+  "word": "search",
+  "start": 113.58,
+  "end": 113.64
+ },
+ {
+  "word": "planes",
+  "start": 113.64,
+  "end": 113.96
+ },
+ {
+  "word": "scanned",
+  "start": 113.96,
+  "end": 114.42
+ },
+ {
+  "word": "thousands",
+  "start": 114.42,
+  "end": 114.96
+ },
+ {
+  "word": "of",
+  "start": 114.96,
+  "end": 115.26
+ },
+ {
+  "word": "square",
+  "start": 115.26,
+  "end": 115.56
+ },
+ {
+  "word": "miles",
+  "start": 115.56,
+  "end": 115.92
+ },
+ {
+  "word": "of",
+  "start": 115.92,
+  "end": 116.14
+ },
+ {
+  "word": "open",
+  "start": 116.14,
+  "end": 116.4
+ },
+ {
+  "word": "water.",
+  "start": 116.4,
+  "end": 116.78
+ },
+ {
+  "word": "They",
+  "start": 117.36,
+  "end": 117.5
+ },
+ {
+  "word": "found",
+  "start": 117.5,
+  "end": 117.86
+ },
+ {
+  "word": "nothing.",
+  "start": 117.86,
+  "end": 118.38
+ },
+ {
+  "word": "No",
+  "start": 118.98,
+  "end": 119.22
+ },
+ {
+  "word": "wreckage.",
+  "start": 119.22,
+  "end": 119.6
+ },
+ {
+  "word": "No",
+  "start": 120.12,
+  "end": 120.24
+ },
+ {
+  "word": "oil",
+  "start": 120.24,
+  "end": 120.6
+ },
+ {
+  "word": "slicks.",
+  "start": 120.6,
+  "end": 121.06
+ },
+ {
+  "word": "No",
+  "start": 121.32,
+  "end": 121.62
+ },
+ {
+  "word": "debris.",
+  "start": 121.62,
+  "end": 122.06
+ },
+ {
+  "word": "Then,",
+  "start": 122.86,
+  "end": 123.44
+ },
+ {
+  "word": "on",
+  "start": 123.64,
+  "end": 123.84
+ },
+ {
+  "word": "November",
+  "start": 123.84,
+  "end": 124.16
+ },
+ {
+  "word": "10th,",
+  "start": 124.16,
+  "end": 125.04
+ },
+ {
+  "word": "the",
+  "start": 125.08,
+  "end": 125.14
+ },
+ {
+  "word": "crew",
+  "start": 125.14,
+  "end": 125.34
+ },
+ {
+  "word": "of",
+  "start": 125.34,
+  "end": 125.48
+ },
+ {
+  "word": "a",
+  "start": 125.48,
+  "end": 125.6
+ },
+ {
+  "word": "passing",
+  "start": 125.6,
+  "end": 125.96
+ },
+ {
+  "word": "vessel",
+  "start": 125.96,
+  "end": 126.32
+ },
+ {
+  "word": "caught",
+  "start": 126.32,
+  "end": 126.58
+ },
+ {
+  "word": "sight",
+  "start": 126.58,
+  "end": 126.88
+ },
+ {
+  "word": "of",
+  "start": 126.88,
+  "end": 127.02
+ },
+ {
+  "word": "a",
+  "start": 127.02,
+  "end": 127.18
+ },
+ {
+  "word": "dark",
+  "start": 127.18,
+  "end": 127.48
+ },
+ {
+  "word": "shape",
+  "start": 127.48,
+  "end": 127.92
+ },
+ {
+  "word": "bobbing",
+  "start": 127.92,
+  "end": 128.44
+ },
+ {
+  "word": "in",
+  "start": 128.44,
+  "end": 128.58
+ },
+ {
+  "word": "the",
+  "start": 128.58,
+  "end": 128.72
+ },
+ {
+  "word": "coastal",
+  "start": 128.72,
+  "end": 129.04
+ },
+ {
+  "word": "swell",
+  "start": 129.04,
+  "end": 129.4
+ },
+ {
+  "word": "near",
+  "start": 129.4,
+  "end": 129.7
+ },
+ {
+  "word": "Vanua",
+  "start": 129.7,
+  "end": 130.14
+ },
+ {
+  "word": "Levu.",
+  "start": 130.14,
+  "end": 130.54
+ },
+ {
+  "word": "It",
+  "start": 131.1,
+  "end": 131.52
+ },
+ {
+  "word": "was",
+  "start": 131.52,
+  "end": 131.7
+ },
+ {
+  "word": "the",
+  "start": 131.7,
+  "end": 131.92
+ },
+ {
+  "word": "Joyita.",
+  "start": 131.92,
+  "end": 132.42
+ },
+ {
+  "word": "She",
+  "start": 133.29,
+  "end": 133.49
+ },
+ {
+  "word": "was",
+  "start": 133.49,
+  "end": 133.59
+ },
+ {
+  "word": "listing",
+  "start": 133.59,
+  "end": 134.01
+ },
+ {
+  "word": "heavily",
+  "start": 134.01,
+  "end": 134.43
+ },
+ {
+  "word": "at",
+  "start": 134.43,
+  "end": 134.65
+ },
+ {
+  "word": "forty-five",
+  "start": 134.65,
+  "end": 134.95
+ },
+ {
+  "word": "degrees,",
+  "start": 135.25,
+  "end": 135.69
+ },
+ {
+  "word": "her",
+  "start": 136.15,
+  "end": 136.27
+ },
+ {
+  "word": "deck",
+  "start": 136.27,
+  "end": 136.47
+ },
+ {
+  "word": "sitting",
+  "start": 136.47,
+  "end": 136.81
+ },
+ {
+  "word": "barely",
+  "start": 136.81,
+  "end": 137.17
+ },
+ {
+  "word": "inches",
+  "start": 137.17,
+  "end": 137.73
+ },
+ {
+  "word": "above",
+  "start": 137.73,
+  "end": 137.99
+ },
+ {
+  "word": "the",
+  "start": 137.99,
+  "end": 138.17
+ },
+ {
+  "word": "waves.",
+  "start": 138.17,
+  "end": 138.47
+ },
+ {
+  "word": "Barnacles",
+  "start": 139.35,
+  "end": 139.67
+ },
+ {
+  "word": "covered",
+  "start": 139.67,
+  "end": 140.09
+ },
+ {
+  "word": "her",
+  "start": 140.09,
+  "end": 140.27
+ },
+ {
+  "word": "waterline,",
+  "start": 140.27,
+  "end": 140.83
+ },
+ {
+  "word": "showing",
+  "start": 141.09,
+  "end": 141.33
+ },
+ {
+  "word": "she",
+  "start": 141.33,
+  "end": 141.55
+ },
+ {
+  "word": "had",
+  "start": 141.55,
+  "end": 141.65
+ },
+ {
+  "word": "been",
+  "start": 141.65,
+  "end": 141.79
+ },
+ {
+  "word": "drifting",
+  "start": 141.79,
+  "end": 142.15
+ },
+ {
+  "word": "aimlessly",
+  "start": 142.15,
+  "end": 142.75
+ },
+ {
+  "word": "for",
+  "start": 142.75,
+  "end": 143.01
+ },
+ {
+  "word": "a",
+  "start": 143.01,
+  "end": 143.21
+ },
+ {
+  "word": "month.",
+  "start": 143.21,
+  "end": 143.45
+ },
+ {
+  "word": "When",
+  "start": 144.54,
+  "end": 144.76
+ },
+ {
+  "word": "sailors",
+  "start": 144.76,
+  "end": 145.12
+ },
+ {
+  "word": "rowed",
+  "start": 145.12,
+  "end": 145.28
+ },
+ {
+  "word": "out",
+  "start": 145.44,
+  "end": 145.78
+ },
+ {
+  "word": "and",
+  "start": 145.78,
+  "end": 145.98
+ },
+ {
+  "word": "stepped",
+  "start": 145.98,
+  "end": 146.26
+ },
+ {
+  "word": "onto",
+  "start": 146.26,
+  "end": 146.52
+ },
+ {
+  "word": "the",
+  "start": 146.52,
+  "end": 146.68
+ },
+ {
+  "word": "wooden",
+  "start": 146.68,
+  "end": 146.88
+ },
+ {
+  "word": "deck,",
+  "start": 146.88,
+  "end": 147.2
+ },
+ {
+  "word": "they",
+  "start": 147.62,
+  "end": 147.8
+ },
+ {
+  "word": "didn't",
+  "start": 147.8,
+  "end": 148.02
+ },
+ {
+  "word": "hear",
+  "start": 148.02,
+  "end": 148.28
+ },
+ {
+  "word": "shouts",
+  "start": 148.28,
+  "end": 148.72
+ },
+ {
+  "word": "or",
+  "start": 148.72,
+  "end": 149.02
+ },
+ {
+  "word": "cries",
+  "start": 149.02,
+  "end": 149.28
+ },
+ {
+  "word": "for",
+  "start": 149.28,
+  "end": 149.54
+ },
+ {
+  "word": "help.",
+  "start": 149.54,
+  "end": 149.8
+ },
+ {
+  "word": "Only",
+  "start": 149.8,
+  "end": 150.62
+ },
+ {
+  "word": "the",
+  "start": 150.62,
+  "end": 150.86
+ },
+ {
+  "word": "quiet",
+  "start": 150.86,
+  "end": 151.2
+ },
+ {
+  "word": "slap",
+  "start": 151.2,
+  "end": 151.72
+ },
+ {
+  "word": "of",
+  "start": 151.72,
+  "end": 151.9
+ },
+ {
+  "word": "seawater",
+  "start": 151.9,
+  "end": 152.5
+ },
+ {
+  "word": "against",
+  "start": 152.5,
+  "end": 152.8
+ },
+ {
+  "word": "wooden",
+  "start": 152.8,
+  "end": 153.18
+ },
+ {
+  "word": "planks.",
+  "start": 153.18,
+  "end": 153.66
+ },
+ {
+  "word": "The",
+  "start": 154.69,
+  "end": 154.85
+ },
+ {
+  "word": "ship",
+  "start": 154.85,
+  "end": 155.11
+ },
+ {
+  "word": "was",
+  "start": 155.11,
+  "end": 155.43
+ },
+ {
+  "word": "completely",
+  "start": 155.43,
+  "end": 156.01
+ },
+ {
+  "word": "deserted.",
+  "start": 156.01,
+  "end": 156.71
+ },
+ {
+  "word": "Every",
+  "start": 157.83,
+  "end": 158.15
+ },
+ {
+  "word": "room",
+  "start": 158.15,
+  "end": 158.51
+ },
+ {
+  "word": "held",
+  "start": 158.51,
+  "end": 158.81
+ },
+ {
+  "word": "a",
+  "start": 158.81,
+  "end": 158.99
+ },
+ {
+  "word": "new",
+  "start": 158.99,
+  "end": 159.21
+ },
+ {
+  "word": "contradiction.",
+  "start": 159.21,
+  "end": 159.83
+ },
+ {
+  "word": "In",
+  "start": 160.89,
+  "end": 161.07
+ },
+ {
+  "word": "the",
+  "start": 161.07,
+  "end": 161.19
+ },
+ {
+  "word": "cabins,",
+  "start": 161.19,
+  "end": 161.67
+ },
+ {
+  "word": "personal",
+  "start": 162.03,
+  "end": 162.37
+ },
+ {
+  "word": "luggage,",
+  "start": 162.37,
+  "end": 162.81
+ },
+ {
+  "word": "passports,",
+  "start": 163.39,
+  "end": 163.53
+ },
+ {
+  "word": "and",
+  "start": 163.53,
+  "end": 164.01
+ },
+ {
+  "word": "wristwatches",
+  "start": 164.01,
+  "end": 164.61
+ },
+ {
+  "word": "lay",
+  "start": 164.61,
+  "end": 164.85
+ },
+ {
+  "word": "untouched",
+  "start": 164.85,
+  "end": 165.47
+ },
+ {
+  "word": "on",
+  "start": 165.47,
+  "end": 165.73
+ },
+ {
+  "word": "dry",
+  "start": 165.73,
+  "end": 165.99
+ },
+ {
+  "word": "shelves.",
+  "start": 165.99,
+  "end": 166.43
+ },
+ {
+  "word": "The",
+  "start": 167.17,
+  "end": 167.37
+ },
+ {
+  "word": "copra",
+  "start": 167.37,
+  "end": 167.69
+ },
+ {
+  "word": "buyer's",
+  "start": 167.69,
+  "end": 168.05
+ },
+ {
+  "word": "cash",
+  "start": 168.05,
+  "end": 168.31
+ },
+ {
+  "word": "was",
+  "start": 168.31,
+  "end": 168.55
+ },
+ {
+  "word": "right",
+  "start": 168.55,
+  "end": 168.85
+ },
+ {
+  "word": "where",
+  "start": 168.85,
+  "end": 169.05
+ },
+ {
+  "word": "he",
+  "start": 169.05,
+  "end": 169.19
+ },
+ {
+  "word": "left",
+  "start": 169.19,
+  "end": 169.39
+ },
+ {
+  "word": "it\u2014ruling",
+  "start": 169.39,
+  "end": 169.83
+ },
+ {
+  "word": "out",
+  "start": 170.27,
+  "end": 170.49
+ },
+ {
+  "word": "any",
+  "start": 170.49,
+  "end": 170.81
+ },
+ {
+  "word": "possibility",
+  "start": 170.81,
+  "end": 171.19
+ },
+ {
+  "word": "of",
+  "start": 171.19,
+  "end": 171.55
+ },
+ {
+  "word": "robbery.",
+  "start": 171.55,
+  "end": 171.83
+ },
+ {
+  "word": "On",
+  "start": 172.88,
+  "end": 173.14
+ },
+ {
+  "word": "the",
+  "start": 173.14,
+  "end": 173.26
+ },
+ {
+  "word": "main",
+  "start": 173.26,
+  "end": 173.46
+ },
+ {
+  "word": "deck,",
+  "start": 173.46,
+  "end": 173.72
+ },
+ {
+  "word": "investigators",
+  "start": 174.54,
+  "end": 174.54
+ },
+ {
+  "word": "found",
+  "start": 174.54,
+  "end": 174.94
+ },
+ {
+  "word": "Dr.",
+  "start": 174.94,
+  "end": 175.2
+ },
+ {
+  "word": "Parsons'",
+  "start": 175.2,
+  "end": 175.46
+ },
+ {
+  "word": "leather",
+  "start": 175.72,
+  "end": 175.92
+ },
+ {
+  "word": "medical",
+  "start": 175.92,
+  "end": 176.38
+ },
+ {
+  "word": "bag",
+  "start": 176.38,
+  "end": 176.66
+ },
+ {
+  "word": "sitting",
+  "start": 176.66,
+  "end": 176.92
+ },
+ {
+  "word": "open.",
+  "start": 176.92,
+  "end": 177.3
+ },
+ {
+  "word": "Inside",
+  "start": 177.3,
+  "end": 178.42
+ },
+ {
+  "word": "were",
+  "start": 178.42,
+  "end": 178.7
+ },
+ {
+  "word": "unspooled",
+  "start": 178.7,
+  "end": 179.42
+ },
+ {
+  "word": "rolls",
+  "start": 179.42,
+  "end": 179.66
+ },
+ {
+  "word": "of",
+  "start": 179.66,
+  "end": 179.92
+ },
+ {
+  "word": "surgical",
+  "start": 179.92,
+  "end": 180.22
+ },
+ {
+  "word": "thread",
+  "start": 180.22,
+  "end": 180.44
+ },
+ {
+  "word": "and",
+  "start": 180.66,
+  "end": 181.16
+ },
+ {
+  "word": "bandages",
+  "start": 181.16,
+  "end": 181.64
+ },
+ {
+  "word": "stained",
+  "start": 181.64,
+  "end": 181.96
+ },
+ {
+  "word": "with",
+  "start": 181.96,
+  "end": 182.16
+ },
+ {
+  "word": "dry",
+  "start": 182.16,
+  "end": 182.42
+ },
+ {
+  "word": "blood.",
+  "start": 182.42,
+  "end": 182.68
+ },
+ {
+  "word": "But",
+  "start": 183.39,
+  "end": 183.67
+ },
+ {
+  "word": "there",
+  "start": 183.67,
+  "end": 183.77
+ },
+ {
+  "word": "was",
+  "start": 183.77,
+  "end": 183.87
+ },
+ {
+  "word": "no",
+  "start": 183.87,
+  "end": 184.11
+ },
+ {
+  "word": "record",
+  "start": 184.11,
+  "end": 184.47
+ },
+ {
+  "word": "of",
+  "start": 184.47,
+  "end": 184.65
+ },
+ {
+  "word": "a",
+  "start": 184.65,
+  "end": 184.79
+ },
+ {
+  "word": "patient,",
+  "start": 184.79,
+  "end": 185.09
+ },
+ {
+  "word": "and",
+  "start": 185.09,
+  "end": 185.71
+ },
+ {
+  "word": "no",
+  "start": 185.71,
+  "end": 185.87
+ },
+ {
+  "word": "sign",
+  "start": 185.87,
+  "end": 186.19
+ },
+ {
+  "word": "of",
+  "start": 186.19,
+  "end": 186.33
+ },
+ {
+  "word": "what",
+  "start": 186.33,
+  "end": 186.45
+ },
+ {
+  "word": "medical",
+  "start": 186.45,
+  "end": 186.81
+ },
+ {
+  "word": "emergency",
+  "start": 186.81,
+  "end": 187.27
+ },
+ {
+  "word": "had",
+  "start": 187.27,
+  "end": 187.51
+ },
+ {
+  "word": "occurred.",
+  "start": 187.51,
+  "end": 187.83
+ },
+ {
+  "word": "Down",
+  "start": 188.55,
+  "end": 188.93
+ },
+ {
+  "word": "in",
+  "start": 188.93,
+  "end": 189.11
+ },
+ {
+  "word": "the",
+  "start": 189.11,
+  "end": 189.23
+ },
+ {
+  "word": "radio",
+  "start": 189.23,
+  "end": 189.59
+ },
+ {
+  "word": "room,",
+  "start": 189.59,
+  "end": 189.99
+ },
+ {
+  "word": "the",
+  "start": 190.25,
+  "end": 190.33
+ },
+ {
+  "word": "main",
+  "start": 190.33,
+  "end": 190.61
+ },
+ {
+  "word": "power",
+  "start": 190.61,
+  "end": 191.03
+ },
+ {
+  "word": "switch",
+  "start": 191.03,
+  "end": 191.33
+ },
+ {
+  "word": "was",
+  "start": 191.33,
+  "end": 191.59
+ },
+ {
+  "word": "flipped",
+  "start": 191.59,
+  "end": 191.89
+ },
+ {
+  "word": "to",
+  "start": 191.89,
+  "end": 192.23
+ },
+ {
+  "word": "ON,",
+  "start": 192.23,
+  "end": 192.51
+ },
+ {
+  "word": "tuned",
+  "start": 192.91,
+  "end": 193.29
+ },
+ {
+  "word": "directly",
+  "start": 193.29,
+  "end": 193.95
+ },
+ {
+  "word": "to",
+  "start": 193.95,
+  "end": 194.25
+ },
+ {
+  "word": "2182",
+  "start": 194.25,
+  "end": 195.45
+ },
+ {
+  "word": "kilohertz\u2014the",
+  "start": 195.45,
+  "end": 196.09
+ },
+ {
+  "word": "international",
+  "start": 196.73,
+  "end": 197.23
+ },
+ {
+  "word": "distress",
+  "start": 197.23,
+  "end": 197.75
+ },
+ {
+  "word": "frequency.",
+  "start": 197.75,
+  "end": 198.33
+ },
+ {
+  "word": "Yet,",
+  "start": 199.05,
+  "end": 199.37
+ },
+ {
+  "word": "during",
+  "start": 199.45,
+  "end": 199.75
+ },
+ {
+  "word": "five",
+  "start": 199.75,
+  "end": 200.21
+ },
+ {
+  "word": "weeks",
+  "start": 200.21,
+  "end": 200.49
+ },
+ {
+  "word": "of",
+  "start": 200.49,
+  "end": 200.69
+ },
+ {
+  "word": "searching,",
+  "start": 200.69,
+  "end": 201.07
+ },
+ {
+  "word": "not",
+  "start": 201.55,
+  "end": 201.77
+ },
+ {
+  "word": "a",
+  "start": 201.77,
+  "end": 201.97
+ },
+ {
+  "word": "single",
+  "start": 201.97,
+  "end": 202.39
+ },
+ {
+  "word": "coastal",
+  "start": 202.39,
+  "end": 202.81
+ },
+ {
+  "word": "station",
+  "start": 202.81,
+  "end": 203.25
+ },
+ {
+  "word": "had",
+  "start": 203.25,
+  "end": 203.45
+ },
+ {
+  "word": "received",
+  "start": 203.45,
+  "end": 203.73
+ },
+ {
+  "word": "a",
+  "start": 203.73,
+  "end": 203.89
+ },
+ {
+  "word": "distress",
+  "start": 203.89,
+  "end": 204.17
+ },
+ {
+  "word": "call.",
+  "start": 204.17,
+  "end": 204.51
+ },
+ {
+  "word": "When",
+  "start": 205.39,
+  "end": 205.73
+ },
+ {
+  "word": "a",
+  "start": 205.73,
+  "end": 205.85
+ },
+ {
+  "word": "technician",
+  "start": 205.85,
+  "end": 206.21
+ },
+ {
+  "word": "inspected",
+  "start": 206.21,
+  "end": 206.77
+ },
+ {
+  "word": "the",
+  "start": 206.77,
+  "end": 206.99
+ },
+ {
+  "word": "wiring",
+  "start": 206.99,
+  "end": 207.39
+ },
+ {
+  "word": "behind",
+  "start": 207.39,
+  "end": 207.75
+ },
+ {
+  "word": "the",
+  "start": 207.75,
+  "end": 207.91
+ },
+ {
+  "word": "bulkhead,",
+  "start": 207.91,
+  "end": 208.33
+ },
+ {
+  "word": "he",
+  "start": 208.75,
+  "end": 208.89
+ },
+ {
+  "word": "found",
+  "start": 208.89,
+  "end": 209.09
+ },
+ {
+  "word": "a",
+  "start": 209.09,
+  "end": 209.33
+ },
+ {
+  "word": "tiny",
+  "start": 209.33,
+  "end": 209.79
+ },
+ {
+  "word": "connecting",
+  "start": 209.79,
+  "end": 210.35
+ },
+ {
+  "word": "cable",
+  "start": 210.35,
+  "end": 210.75
+ },
+ {
+  "word": "between",
+  "start": 210.75,
+  "end": 211.07
+ },
+ {
+  "word": "the",
+  "start": 211.07,
+  "end": 211.23
+ },
+ {
+  "word": "transmitter",
+  "start": 211.23,
+  "end": 211.71
+ },
+ {
+  "word": "and",
+  "start": 211.71,
+  "end": 212.13
+ },
+ {
+  "word": "the",
+  "start": 212.13,
+  "end": 212.25
+ },
+ {
+  "word": "outdoor",
+  "start": 212.25,
+  "end": 212.67
+ },
+ {
+  "word": "antenna",
+  "start": 212.67,
+  "end": 213.17
+ },
+ {
+  "word": "was",
+  "start": 213.17,
+  "end": 213.59
+ },
+ {
+  "word": "snapped.",
+  "start": 213.59,
+  "end": 214.09
+ },
+ {
+  "word": "When",
+  "start": 215.21,
+  "end": 215.37
+ },
+ {
+  "word": "Captain",
+  "start": 215.37,
+  "end": 215.73
+ },
+ {
+  "word": "Miller",
+  "start": 215.73,
+  "end": 216.01
+ },
+ {
+  "word": "threw",
+  "start": 216.01,
+  "end": 216.43
+ },
+ {
+  "word": "the",
+  "start": 216.43,
+  "end": 216.67
+ },
+ {
+  "word": "switch",
+  "start": 216.67,
+  "end": 216.91
+ },
+ {
+  "word": "to",
+  "start": 216.91,
+  "end": 217.15
+ },
+ {
+  "word": "call",
+  "start": 217.15,
+  "end": 217.31
+ },
+ {
+  "word": "for",
+  "start": 217.31,
+  "end": 217.47
+ },
+ {
+  "word": "help,",
+  "start": 217.47,
+  "end": 217.73
+ },
+ {
+  "word": "the",
+  "start": 218.19,
+  "end": 218.31
+ },
+ {
+  "word": "radio",
+  "start": 218.31,
+  "end": 218.63
+ },
+ {
+  "word": "worked",
+  "start": 218.63,
+  "end": 218.97
+ },
+ {
+  "word": "inside",
+  "start": 218.97,
+  "end": 219.53
+ },
+ {
+  "word": "the",
+  "start": 219.53,
+  "end": 219.75
+ },
+ {
+  "word": "room...",
+  "start": 219.75,
+  "end": 220.05
+ },
+ {
+  "word": "but",
+  "start": 220.41,
+  "end": 220.69
+ },
+ {
+  "word": "the",
+  "start": 220.69,
+  "end": 220.87
+ },
+ {
+  "word": "signal",
+  "start": 220.87,
+  "end": 221.13
+ },
+ {
+  "word": "died",
+  "start": 221.13,
+  "end": 221.61
+ },
+ {
+  "word": "inside",
+  "start": 221.61,
+  "end": 222.29
+ },
+ {
+  "word": "the",
+  "start": 222.29,
+  "end": 222.55
+ },
+ {
+  "word": "wall.",
+  "start": 222.55,
+  "end": 222.83
+ },
+ {
+  "word": "When",
+  "start": 224.05,
+  "end": 224.21
+ },
+ {
+  "word": "investigators",
+  "start": 224.21,
+  "end": 224.71
+ },
+ {
+  "word": "towed",
+  "start": 224.71,
+  "end": 225.25
+ },
+ {
+  "word": "the",
+  "start": 225.25,
+  "end": 225.47
+ },
+ {
+  "word": "Joyita",
+  "start": 225.47,
+  "end": 225.85
+ },
+ {
+  "word": "to",
+  "start": 225.85,
+  "end": 226.03
+ },
+ {
+  "word": "shore",
+  "start": 226.03,
+  "end": 226.29
+ },
+ {
+  "word": "and",
+  "start": 226.29,
+  "end": 226.63
+ },
+ {
+  "word": "pumped",
+  "start": 226.63,
+  "end": 226.85
+ },
+ {
+  "word": "out",
+  "start": 226.85,
+  "end": 227.05
+ },
+ {
+  "word": "the",
+  "start": 227.05,
+  "end": 227.19
+ },
+ {
+  "word": "water,",
+  "start": 227.19,
+  "end": 227.47
+ },
+ {
+  "word": "a",
+  "start": 227.93,
+  "end": 228.07
+ },
+ {
+  "word": "complex",
+  "start": 228.07,
+  "end": 228.57
+ },
+ {
+  "word": "sequence",
+  "start": 228.57,
+  "end": 229.01
+ },
+ {
+  "word": "of",
+  "start": 229.01,
+  "end": 229.21
+ },
+ {
+  "word": "mechanical",
+  "start": 229.21,
+  "end": 229.67
+ },
+ {
+  "word": "trouble",
+  "start": 229.67,
+  "end": 230.15
+ },
+ {
+  "word": "emerged.",
+  "start": 230.15,
+  "end": 230.49
+ },
+ {
+  "word": "One",
+  "start": 231.19,
+  "end": 231.59
+ },
+ {
+  "word": "of",
+  "start": 231.59,
+  "end": 231.69
+ },
+ {
+  "word": "the",
+  "start": 231.69,
+  "end": 231.83
+ },
+ {
+  "word": "main",
+  "start": 231.83,
+  "end": 232.07
+ },
+ {
+  "word": "engines",
+  "start": 232.07,
+  "end": 232.47
+ },
+ {
+  "word": "was",
+  "start": 232.47,
+  "end": 232.67
+ },
+ {
+  "word": "found",
+  "start": 232.67,
+  "end": 232.91
+ },
+ {
+  "word": "covered",
+  "start": 232.91,
+  "end": 233.25
+ },
+ {
+  "word": "in",
+  "start": 233.25,
+  "end": 233.47
+ },
+ {
+  "word": "mattresses,",
+  "start": 233.47,
+  "end": 234.07
+ },
+ {
+  "word": "and",
+  "start": 234.55,
+  "end": 234.75
+ },
+ {
+  "word": "reports",
+  "start": 234.75,
+  "end": 235.07
+ },
+ {
+  "word": "differed",
+  "start": 235.07,
+  "end": 235.47
+ },
+ {
+  "word": "over",
+  "start": 235.47,
+  "end": 235.77
+ },
+ {
+  "word": "which",
+  "start": 235.77,
+  "end": 236.09
+ },
+ {
+  "word": "engine",
+  "start": 236.09,
+  "end": 236.43
+ },
+ {
+  "word": "had",
+  "start": 236.43,
+  "end": 236.63
+ },
+ {
+  "word": "failed",
+  "start": 236.63,
+  "end": 236.89
+ },
+ {
+  "word": "first",
+  "start": 236.89,
+  "end": 237.29
+ },
+ {
+  "word": "or",
+  "start": 237.29,
+  "end": 237.73
+ },
+ {
+  "word": "how",
+  "start": 237.73,
+  "end": 238.05
+ },
+ {
+  "word": "the",
+  "start": 238.05,
+  "end": 238.25
+ },
+ {
+  "word": "pumps",
+  "start": 238.25,
+  "end": 238.49
+ },
+ {
+  "word": "were",
+  "start": 238.49,
+  "end": 238.73
+ },
+ {
+  "word": "handled",
+  "start": 238.73,
+  "end": 238.97
+ },
+ {
+  "word": "in",
+  "start": 238.97,
+  "end": 239.17
+ },
+ {
+  "word": "the",
+  "start": 239.17,
+  "end": 239.25
+ },
+ {
+  "word": "darkness.",
+  "start": 239.25,
+  "end": 239.57
+ },
+ {
+  "word": "What",
+  "start": 240.7,
+  "end": 240.92
+ },
+ {
+  "word": "is",
+  "start": 240.92,
+  "end": 241.18
+ },
+ {
+  "word": "documented",
+  "start": 241.18,
+  "end": 241.68
+ },
+ {
+  "word": "is",
+  "start": 241.68,
+  "end": 242.22
+ },
+ {
+  "word": "that",
+  "start": 242.22,
+  "end": 242.34
+ },
+ {
+  "word": "an",
+  "start": 242.34,
+  "end": 242.5
+ },
+ {
+  "word": "auxiliary",
+  "start": 242.5,
+  "end": 242.96
+ },
+ {
+  "word": "cooling",
+  "start": 242.96,
+  "end": 243.48
+ },
+ {
+  "word": "pipe",
+  "start": 243.48,
+  "end": 243.8
+ },
+ {
+  "word": "ruptured,",
+  "start": 243.8,
+  "end": 244.32
+ },
+ {
+  "word": "sending",
+  "start": 244.6,
+  "end": 244.92
+ },
+ {
+  "word": "seawater",
+  "start": 244.92,
+  "end": 245.48
+ },
+ {
+  "word": "pumping",
+  "start": 245.48,
+  "end": 245.8
+ },
+ {
+  "word": "directly",
+  "start": 245.8,
+  "end": 246.24
+ },
+ {
+  "word": "into",
+  "start": 246.24,
+  "end": 246.68
+ },
+ {
+  "word": "the",
+  "start": 246.68,
+  "end": 246.8
+ },
+ {
+  "word": "bilges.",
+  "start": 246.8,
+  "end": 247.08
+ },
+ {
+  "word": "To",
+  "start": 247.84,
+  "end": 248.1
+ },
+ {
+  "word": "make",
+  "start": 248.1,
+  "end": 248.22
+ },
+ {
+  "word": "matters",
+  "start": 248.22,
+  "end": 248.5
+ },
+ {
+  "word": "worse,",
+  "start": 248.5,
+  "end": 248.76
+ },
+ {
+  "word": "the",
+  "start": 249.14,
+  "end": 249.28
+ },
+ {
+  "word": "water",
+  "start": 249.28,
+  "end": 249.54
+ },
+ {
+  "word": "pumps",
+  "start": 249.54,
+  "end": 249.78
+ },
+ {
+  "word": "were",
+  "start": 249.78,
+  "end": 249.94
+ },
+ {
+  "word": "clogged",
+  "start": 249.94,
+  "end": 250.36
+ },
+ {
+  "word": "with",
+  "start": 250.36,
+  "end": 250.62
+ },
+ {
+  "word": "sludge",
+  "start": 250.62,
+  "end": 251.02
+ },
+ {
+  "word": "and",
+  "start": 251.02,
+  "end": 251.32
+ },
+ {
+  "word": "failed",
+  "start": 251.32,
+  "end": 251.56
+ },
+ {
+  "word": "to",
+  "start": 251.56,
+  "end": 251.72
+ },
+ {
+  "word": "keep",
+  "start": 251.72,
+  "end": 251.86
+ },
+ {
+  "word": "up.",
+  "start": 251.86,
+  "end": 252.08
+ },
+ {
+  "word": "In",
+  "start": 253.14,
+  "end": 253.36
+ },
+ {
+  "word": "the",
+  "start": 253.36,
+  "end": 253.5
+ },
+ {
+  "word": "pitch",
+  "start": 253.5,
+  "end": 253.78
+ },
+ {
+  "word": "black",
+  "start": 253.78,
+  "end": 254.06
+ },
+ {
+  "word": "of",
+  "start": 254.06,
+  "end": 254.24
+ },
+ {
+  "word": "night,",
+  "start": 254.24,
+  "end": 254.46
+ },
+ {
+  "word": "with",
+  "start": 254.78,
+  "end": 254.94
+ },
+ {
+  "word": "ocean",
+  "start": 254.94,
+  "end": 255.28
+ },
+ {
+  "word": "water",
+  "start": 255.28,
+  "end": 255.58
+ },
+ {
+  "word": "sloshing",
+  "start": 255.58,
+  "end": 256.24
+ },
+ {
+  "word": "over",
+  "start": 256.24,
+  "end": 256.4
+ },
+ {
+  "word": "the",
+  "start": 256.4,
+  "end": 256.52
+ },
+ {
+  "word": "engine",
+  "start": 256.52,
+  "end": 256.76
+ },
+ {
+  "word": "room",
+  "start": 256.76,
+  "end": 256.92
+ },
+ {
+  "word": "floorboards,",
+  "start": 256.92,
+  "end": 257.5
+ },
+ {
+  "word": "the",
+  "start": 257.9,
+  "end": 258.02
+ },
+ {
+  "word": "electric",
+  "start": 258.02,
+  "end": 258.4
+ },
+ {
+  "word": "generator",
+  "start": 258.4,
+  "end": 258.86
+ },
+ {
+  "word": "drowned.",
+  "start": 258.86,
+  "end": 259.36
+ },
+ {
+  "word": "The",
+  "start": 259.84,
+  "end": 260.18
+ },
+ {
+  "word": "lights",
+  "start": 260.18,
+  "end": 260.5
+ },
+ {
+  "word": "flickered",
+  "start": 260.5,
+  "end": 261.2
+ },
+ {
+  "word": "and",
+  "start": 261.2,
+  "end": 261.46
+ },
+ {
+  "word": "died.",
+  "start": 261.46,
+  "end": 261.84
+ },
+ {
+  "word": "The",
+  "start": 262.9,
+  "end": 263.0
+ },
+ {
+  "word": "wall",
+  "start": 263.0,
+  "end": 263.24
+ },
+ {
+  "word": "clocks",
+  "start": 263.24,
+  "end": 263.6
+ },
+ {
+  "word": "stopped",
+  "start": 263.6,
+  "end": 264.0
+ },
+ {
+  "word": "simultaneously",
+  "start": 264.0,
+  "end": 264.78
+ },
+ {
+  "word": "at",
+  "start": 264.78,
+  "end": 265.24
+ },
+ {
+  "word": "10:25.",
+  "start": 265.24,
+  "end": 266.1
+ },
+ {
+  "word": "Surrounded",
+  "start": 267.49,
+  "end": 267.79
+ },
+ {
+  "word": "by",
+  "start": 267.79,
+  "end": 267.99
+ },
+ {
+  "word": "rushing",
+  "start": 267.99,
+  "end": 268.39
+ },
+ {
+  "word": "water",
+  "start": 268.39,
+  "end": 268.77
+ },
+ {
+  "word": "and",
+  "start": 268.77,
+  "end": 268.97
+ },
+ {
+  "word": "a",
+  "start": 268.97,
+  "end": 269.11
+ },
+ {
+  "word": "dead",
+  "start": 269.11,
+  "end": 269.31
+ },
+ {
+  "word": "radio,",
+  "start": 269.31,
+  "end": 269.77
+ },
+ {
+  "word": "panic",
+  "start": 270.35,
+  "end": 270.39
+ },
+ {
+  "word": "took",
+  "start": 270.39,
+  "end": 270.59
+ },
+ {
+  "word": "over.",
+  "start": 270.59,
+  "end": 270.93
+ },
+ {
+  "word": "This",
+  "start": 271.8,
+  "end": 272.06
+ },
+ {
+  "word": "is",
+  "start": 272.06,
+  "end": 272.2
+ },
+ {
+  "word": "where",
+  "start": 272.2,
+  "end": 272.36
+ },
+ {
+  "word": "mechanical",
+  "start": 272.36,
+  "end": 272.82
+ },
+ {
+  "word": "failure",
+  "start": 272.82,
+  "end": 273.36
+ },
+ {
+  "word": "turned",
+  "start": 273.36,
+  "end": 273.72
+ },
+ {
+  "word": "into",
+  "start": 273.72,
+  "end": 274.0
+ },
+ {
+  "word": "a",
+  "start": 274.0,
+  "end": 274.12
+ },
+ {
+  "word": "human",
+  "start": 274.12,
+  "end": 274.48
+ },
+ {
+  "word": "tragedy.",
+  "start": 274.48,
+  "end": 275.02
+ },
+ {
+  "word": "Captain",
+  "start": 275.82,
+  "end": 276.08
+ },
+ {
+  "word": "Miller",
+  "start": 276.08,
+  "end": 276.4
+ },
+ {
+  "word": "knew",
+  "start": 276.4,
+  "end": 276.86
+ },
+ {
+  "word": "his",
+  "start": 276.86,
+  "end": 277.16
+ },
+ {
+  "word": "ship",
+  "start": 277.16,
+  "end": 277.44
+ },
+ {
+  "word": "was",
+  "start": 277.44,
+  "end": 277.64
+ },
+ {
+  "word": "lined",
+  "start": 277.64,
+  "end": 278.04
+ },
+ {
+  "word": "with",
+  "start": 278.04,
+  "end": 278.3
+ },
+ {
+  "word": "cork.",
+  "start": 278.3,
+  "end": 278.62
+ },
+ {
+  "word": "But",
+  "start": 279.02,
+  "end": 279.34
+ },
+ {
+  "word": "water",
+  "start": 279.34,
+  "end": 279.68
+ },
+ {
+  "word": "was",
+  "start": 279.68,
+  "end": 279.86
+ },
+ {
+  "word": "rising",
+  "start": 279.86,
+  "end": 280.28
+ },
+ {
+  "word": "fast",
+  "start": 280.28,
+  "end": 280.72
+ },
+ {
+  "word": "inside",
+  "start": 280.72,
+  "end": 281.1
+ },
+ {
+  "word": "the",
+  "start": 281.1,
+  "end": 281.28
+ },
+ {
+  "word": "cabins,",
+  "start": 281.28,
+  "end": 281.78
+ },
+ {
+  "word": "and",
+  "start": 282.06,
+  "end": 282.2
+ },
+ {
+  "word": "the",
+  "start": 282.2,
+  "end": 282.34
+ },
+ {
+  "word": "deck",
+  "start": 282.34,
+  "end": 282.54
+ },
+ {
+  "word": "was",
+  "start": 282.54,
+  "end": 282.74
+ },
+ {
+  "word": "listing",
+  "start": 282.74,
+  "end": 283.28
+ },
+ {
+  "word": "dangerously.",
+  "start": 283.28,
+  "end": 283.92
+ },
+ {
+  "word": "Did",
+  "start": 284.62,
+  "end": 285.0
+ },
+ {
+  "word": "he",
+  "start": 285.0,
+  "end": 285.2
+ },
+ {
+  "word": "believe",
+  "start": 285.2,
+  "end": 285.52
+ },
+ {
+  "word": "the",
+  "start": 285.52,
+  "end": 285.74
+ },
+ {
+  "word": "vessel",
+  "start": 285.74,
+  "end": 286.0
+ },
+ {
+  "word": "was",
+  "start": 286.0,
+  "end": 286.16
+ },
+ {
+  "word": "about",
+  "start": 286.16,
+  "end": 286.4
+ },
+ {
+  "word": "to",
+  "start": 286.4,
+  "end": 286.68
+ },
+ {
+  "word": "capsize?",
+  "start": 286.68,
+  "end": 287.1
+ },
+ {
+  "word": "Or",
+  "start": 287.56,
+  "end": 287.72
+ },
+ {
+  "word": "did",
+  "start": 287.72,
+  "end": 287.88
+ },
+ {
+  "word": "terror",
+  "start": 287.88,
+  "end": 288.32
+ },
+ {
+  "word": "spread",
+  "start": 288.32,
+  "end": 288.84
+ },
+ {
+  "word": "among",
+  "start": 288.84,
+  "end": 289.06
+ },
+ {
+  "word": "the",
+  "start": 289.06,
+  "end": 289.22
+ },
+ {
+  "word": "passengers",
+  "start": 289.22,
+  "end": 289.7
+ },
+ {
+  "word": "as",
+  "start": 289.7,
+  "end": 290.0
+ },
+ {
+  "word": "dark",
+  "start": 290.0,
+  "end": 290.38
+ },
+ {
+  "word": "ocean",
+  "start": 290.38,
+  "end": 290.8
+ },
+ {
+  "word": "water",
+  "start": 290.8,
+  "end": 291.08
+ },
+ {
+  "word": "covered",
+  "start": 291.08,
+  "end": 291.44
+ },
+ {
+  "word": "their",
+  "start": 291.44,
+  "end": 291.66
+ },
+ {
+  "word": "feet?",
+  "start": 291.66,
+  "end": 292.0
+ },
+ {
+  "word": "The",
+  "start": 292.98,
+  "end": 293.18
+ },
+ {
+  "word": "ship",
+  "start": 293.18,
+  "end": 293.4
+ },
+ {
+  "word": "carried",
+  "start": 293.4,
+  "end": 293.68
+ },
+ {
+  "word": "three",
+  "start": 293.68,
+  "end": 294.16
+ },
+ {
+  "word": "canvas-and-cork",
+  "start": 294.16,
+  "end": 294.687
+ },
+ {
+  "word": "Carley",
+  "start": 294.687,
+  "end": 295.213
+ },
+ {
+  "word": "float",
+  "start": 295.74,
+  "end": 295.98
+ },
+ {
+  "word": "rafts",
+  "start": 295.98,
+  "end": 296.52
+ },
+ {
+  "word": "and",
+  "start": 296.52,
+  "end": 296.72
+ },
+ {
+  "word": "a",
+  "start": 296.72,
+  "end": 296.86
+ },
+ {
+  "word": "small",
+  "start": 296.86,
+  "end": 297.12
+ },
+ {
+  "word": "wooden",
+  "start": 297.12,
+  "end": 297.38
+ },
+ {
+  "word": "dinghy.",
+  "start": 297.38,
+  "end": 297.82
+ },
+ {
+  "word": "All",
+  "start": 298.36,
+  "end": 298.62
+ },
+ {
+  "word": "four",
+  "start": 298.62,
+  "end": 298.9
+ },
+ {
+  "word": "survival",
+  "start": 298.9,
+  "end": 299.3
+ },
+ {
+  "word": "craft",
+  "start": 299.3,
+  "end": 299.66
+ },
+ {
+  "word": "were",
+  "start": 299.66,
+  "end": 300.1
+ },
+ {
+  "word": "gone.",
+  "start": 300.1,
+  "end": 300.54
+ },
+ {
+  "word": "Yet,",
+  "start": 301.62,
+  "end": 301.82
+ },
+ {
+  "word": "investigators",
+  "start": 301.82,
+  "end": 302.6
+ },
+ {
+  "word": "noted",
+  "start": 302.6,
+  "end": 303.02
+ },
+ {
+  "word": "there",
+  "start": 303.02,
+  "end": 303.26
+ },
+ {
+  "word": "were",
+  "start": 303.26,
+  "end": 303.4
+ },
+ {
+  "word": "not",
+  "start": 303.4,
+  "end": 303.7
+ },
+ {
+  "word": "even",
+  "start": 303.7,
+  "end": 303.98
+ },
+ {
+  "word": "enough",
+  "start": 303.98,
+  "end": 304.24
+ },
+ {
+  "word": "lifejackets",
+  "start": 304.24,
+  "end": 304.62
+ },
+ {
+  "word": "aboard",
+  "start": 305.0,
+  "end": 305.34
+ },
+ {
+  "word": "for",
+  "start": 305.34,
+  "end": 305.6
+ },
+ {
+  "word": "everyone",
+  "start": 305.6,
+  "end": 305.98
+ },
+ {
+  "word": "on",
+  "start": 305.98,
+  "end": 306.22
+ },
+ {
+  "word": "the",
+  "start": 306.22,
+  "end": 306.44
+ },
+ {
+  "word": "ship.",
+  "start": 306.44,
+  "end": 306.66
+ },
+ {
+  "word": "The",
+  "start": 307.62,
+  "end": 307.82
+ },
+ {
+  "word": "physical",
+  "start": 307.82,
+  "end": 308.24
+ },
+ {
+  "word": "evidence",
+  "start": 308.24,
+  "end": 308.72
+ },
+ {
+  "word": "leads",
+  "start": 308.72,
+  "end": 309.28
+ },
+ {
+  "word": "to",
+  "start": 309.28,
+  "end": 309.5
+ },
+ {
+  "word": "one",
+  "start": 309.5,
+  "end": 309.9
+ },
+ {
+  "word": "devastating",
+  "start": 309.9,
+  "end": 310.78
+ },
+ {
+  "word": "conclusion.",
+  "start": 310.78,
+  "end": 311.34
+ },
+ {
+  "word": "In",
+  "start": 312.16,
+  "end": 312.5
+ },
+ {
+  "word": "the",
+  "start": 312.5,
+  "end": 312.64
+ },
+ {
+  "word": "middle",
+  "start": 312.64,
+  "end": 312.9
+ },
+ {
+  "word": "of",
+  "start": 312.9,
+  "end": 313.1
+ },
+ {
+  "word": "a",
+  "start": 313.1,
+  "end": 313.3
+ },
+ {
+  "word": "dark",
+  "start": 313.3,
+  "end": 313.56
+ },
+ {
+  "word": "ocean",
+  "start": 313.56,
+  "end": 313.96
+ },
+ {
+  "word": "night,",
+  "start": 313.96,
+  "end": 314.28
+ },
+ {
+  "word": "believing",
+  "start": 314.76,
+  "end": 315.0
+ },
+ {
+  "word": "their",
+  "start": 315.0,
+  "end": 315.3
+ },
+ {
+  "word": "ship",
+  "start": 315.3,
+  "end": 315.48
+ },
+ {
+  "word": "was",
+  "start": 315.48,
+  "end": 315.64
+ },
+ {
+  "word": "going",
+  "start": 315.64,
+  "end": 315.88
+ },
+ {
+  "word": "under,",
+  "start": 315.88,
+  "end": 316.26
+ },
+ {
+  "word": "all",
+  "start": 316.94,
+  "end": 317.14
+ },
+ {
+  "word": "twenty-five",
+  "start": 317.14,
+  "end": 317.52
+ },
+ {
+  "word": "people",
+  "start": 317.9,
+  "end": 318.32
+ },
+ {
+  "word": "stepped",
+  "start": 318.32,
+  "end": 318.74
+ },
+ {
+  "word": "off",
+  "start": 318.74,
+  "end": 319.06
+ },
+ {
+  "word": "the",
+  "start": 319.06,
+  "end": 319.22
+ },
+ {
+  "word": "Joyita",
+  "start": 319.22,
+  "end": 319.4
+ },
+ {
+  "word": "and",
+  "start": 319.58,
+  "end": 319.96
+ },
+ {
+  "word": "crowded",
+  "start": 319.96,
+  "end": 320.34
+ },
+ {
+  "word": "into",
+  "start": 320.34,
+  "end": 320.64
+ },
+ {
+  "word": "three",
+  "start": 320.64,
+  "end": 321.0
+ },
+ {
+  "word": "small",
+  "start": 321.0,
+  "end": 321.4
+ },
+ {
+  "word": "rafts",
+  "start": 321.4,
+  "end": 321.86
+ },
+ {
+  "word": "and",
+  "start": 321.86,
+  "end": 321.94
+ },
+ {
+  "word": "a",
+  "start": 321.94,
+  "end": 322.1
+ },
+ {
+  "word": "dinghy",
+  "start": 322.1,
+  "end": 322.44
+ },
+ {
+  "word": "tied",
+  "start": 322.44,
+  "end": 322.78
+ },
+ {
+  "word": "together",
+  "start": 322.78,
+  "end": 323.18
+ },
+ {
+  "word": "in",
+  "start": 323.18,
+  "end": 323.32
+ },
+ {
+  "word": "the",
+  "start": 323.32,
+  "end": 323.44
+ },
+ {
+  "word": "sea.",
+  "start": 323.44,
+  "end": 323.66
+ },
+ {
+  "word": "They",
+  "start": 324.52,
+  "end": 324.92
+ },
+ {
+  "word": "thought",
+  "start": 324.92,
+  "end": 325.2
+ },
+ {
+  "word": "they",
+  "start": 325.2,
+  "end": 325.38
+ },
+ {
+  "word": "were",
+  "start": 325.38,
+  "end": 325.52
+ },
+ {
+  "word": "escaping",
+  "start": 325.52,
+  "end": 325.88
+ },
+ {
+  "word": "a",
+  "start": 325.88,
+  "end": 326.12
+ },
+ {
+  "word": "dying",
+  "start": 326.12,
+  "end": 326.4
+ },
+ {
+  "word": "vessel.",
+  "start": 326.4,
+  "end": 326.8
+ },
+ {
+  "word": "What",
+  "start": 327.73,
+  "end": 327.93
+ },
+ {
+  "word": "they",
+  "start": 327.93,
+  "end": 328.11
+ },
+ {
+  "word": "didn't",
+  "start": 328.11,
+  "end": 328.45
+ },
+ {
+  "word": "realize...",
+  "start": 328.45,
+  "end": 328.81
+ },
+ {
+  "word": "was",
+  "start": 328.81,
+  "end": 329.61
+ },
+ {
+  "word": "that",
+  "start": 329.61,
+  "end": 329.77
+ },
+ {
+  "word": "the",
+  "start": 329.77,
+  "end": 330.11
+ },
+ {
+  "word": "cork",
+  "start": 330.11,
+  "end": 330.23
+ },
+ {
+  "word": "lining",
+  "start": 330.23,
+  "end": 330.51
+ },
+ {
+  "word": "was",
+  "start": 330.51,
+  "end": 330.77
+ },
+ {
+  "word": "doing",
+  "start": 330.77,
+  "end": 331.13
+ },
+ {
+  "word": "its",
+  "start": 331.13,
+  "end": 331.39
+ },
+ {
+  "word": "job.",
+  "start": 331.39,
+  "end": 331.83
+ },
+ {
+  "word": "Even",
+  "start": 332.69,
+  "end": 332.99
+ },
+ {
+  "word": "flooded",
+  "start": 332.99,
+  "end": 333.43
+ },
+ {
+  "word": "with",
+  "start": 333.43,
+  "end": 333.69
+ },
+ {
+  "word": "seawater,",
+  "start": 333.69,
+  "end": 334.21
+ },
+ {
+  "word": "the",
+  "start": 334.47,
+  "end": 334.55
+ },
+ {
+  "word": "cork",
+  "start": 334.55,
+  "end": 334.85
+ },
+ {
+  "word": "kept",
+  "start": 334.85,
+  "end": 335.21
+ },
+ {
+  "word": "the",
+  "start": 335.21,
+  "end": 335.41
+ },
+ {
+  "word": "vessel",
+  "start": 335.41,
+  "end": 335.67
+ },
+ {
+  "word": "afloat.",
+  "start": 335.67,
+  "end": 336.07
+ },
+ {
+  "word": "The",
+  "start": 336.81,
+  "end": 336.99
+ },
+ {
+  "word": "Joyita",
+  "start": 336.99,
+  "end": 337.21
+ },
+ {
+  "word": "could",
+  "start": 337.43,
+  "end": 337.95
+ },
+ {
+  "word": "not",
+  "start": 337.95,
+  "end": 338.35
+ },
+ {
+  "word": "sink.",
+  "start": 338.35,
+  "end": 338.83
+ },
+ {
+  "word": "As",
+  "start": 340.0,
+  "end": 340.34
+ },
+ {
+  "word": "the",
+  "start": 340.34,
+  "end": 340.52
+ },
+ {
+  "word": "hours",
+  "start": 340.52,
+  "end": 340.84
+ },
+ {
+  "word": "passed,",
+  "start": 340.84,
+  "end": 341.28
+ },
+ {
+  "word": "strong",
+  "start": 342.12,
+  "end": 342.12
+ },
+ {
+  "word": "equatorial",
+  "start": 342.12,
+  "end": 342.8
+ },
+ {
+  "word": "winds",
+  "start": 342.8,
+  "end": 343.26
+ },
+ {
+  "word": "and",
+  "start": 343.26,
+  "end": 343.46
+ },
+ {
+  "word": "currents",
+  "start": 343.46,
+  "end": 343.9
+ },
+ {
+  "word": "pulled",
+  "start": 343.9,
+  "end": 344.3
+ },
+ {
+  "word": "the",
+  "start": 344.3,
+  "end": 344.54
+ },
+ {
+  "word": "low",
+  "start": 344.54,
+  "end": 344.78
+ },
+ {
+  "word": "rafts",
+  "start": 344.78,
+  "end": 345.22
+ },
+ {
+  "word": "away",
+  "start": 345.22,
+  "end": 345.46
+ },
+ {
+  "word": "from",
+  "start": 345.46,
+  "end": 345.7
+ },
+ {
+  "word": "the",
+  "start": 345.7,
+  "end": 345.82
+ },
+ {
+  "word": "high",
+  "start": 345.82,
+  "end": 346.12
+ },
+ {
+  "word": "wooden",
+  "start": 346.12,
+  "end": 346.36
+ },
+ {
+  "word": "hull.",
+  "start": 346.36,
+  "end": 346.66
+ },
+ {
+  "word": "By",
+  "start": 347.66,
+  "end": 347.84
+ },
+ {
+  "word": "sunrise,",
+  "start": 347.84,
+  "end": 348.3
+ },
+ {
+  "word": "the",
+  "start": 348.92,
+  "end": 349.0
+ },
+ {
+  "word": "unsinkable",
+  "start": 349.0,
+  "end": 349.373
+ },
+ {
+  "word": "Joyita",
+  "start": 349.373,
+  "end": 349.747
+ },
+ {
+  "word": "was",
+  "start": 350.12,
+  "end": 350.58
+ },
+ {
+  "word": "still",
+  "start": 350.58,
+  "end": 350.96
+ },
+ {
+  "word": "floating",
+  "start": 350.96,
+  "end": 351.38
+ },
+ {
+  "word": "peacefully",
+  "start": 351.38,
+  "end": 351.88
+ },
+ {
+  "word": "on",
+  "start": 351.88,
+  "end": 352.18
+ },
+ {
+  "word": "the",
+  "start": 352.18,
+  "end": 352.3
+ },
+ {
+  "word": "surface.",
+  "start": 352.3,
+  "end": 352.62
+ },
+ {
+  "word": "But",
+  "start": 353.62,
+  "end": 353.88
+ },
+ {
+  "word": "the",
+  "start": 353.88,
+  "end": 354.04
+ },
+ {
+  "word": "four",
+  "start": 354.04,
+  "end": 354.28
+ },
+ {
+  "word": "small",
+  "start": 354.28,
+  "end": 354.62
+ },
+ {
+  "word": "rafts\u2014and",
+  "start": 354.62,
+  "end": 355.06
+ },
+ {
+  "word": "the",
+  "start": 355.5,
+  "end": 355.62
+ },
+ {
+  "word": "twenty-five",
+  "start": 355.62,
+  "end": 355.9
+ },
+ {
+  "word": "people",
+  "start": 356.18,
+  "end": 356.56
+ },
+ {
+  "word": "inside",
+  "start": 356.56,
+  "end": 356.94
+ },
+ {
+  "word": "them\u2014were",
+  "start": 356.94,
+  "end": 357.42
+ },
+ {
+  "word": "gone.",
+  "start": 357.9,
+  "end": 358.32
+ },
+ {
+  "word": "Drifting",
+  "start": 359.32,
+  "end": 359.72
+ },
+ {
+  "word": "out",
+  "start": 359.72,
+  "end": 359.98
+ },
+ {
+  "word": "into",
+  "start": 359.98,
+  "end": 360.18
+ },
+ {
+  "word": "thousands",
+  "start": 360.18,
+  "end": 360.56
+ },
+ {
+  "word": "of",
+  "start": 360.56,
+  "end": 360.94
+ },
+ {
+  "word": "miles",
+  "start": 360.94,
+  "end": 361.18
+ },
+ {
+  "word": "of",
+  "start": 361.18,
+  "end": 361.44
+ },
+ {
+  "word": "empty",
+  "start": 361.44,
+  "end": 361.7
+ },
+ {
+  "word": "ocean,",
+  "start": 361.7,
+  "end": 362.04
+ },
+ {
+  "word": "with",
+  "start": 362.04,
+  "end": 362.6
+ },
+ {
+  "word": "no",
+  "start": 362.6,
+  "end": 362.92
+ },
+ {
+  "word": "food,",
+  "start": 362.92,
+  "end": 363.3
+ },
+ {
+  "word": "no",
+  "start": 363.82,
+  "end": 363.94
+ },
+ {
+  "word": "water,",
+  "start": 363.94,
+  "end": 364.3
+ },
+ {
+  "word": "and",
+  "start": 364.88,
+  "end": 365.0
+ },
+ {
+  "word": "no",
+  "start": 365.0,
+  "end": 365.28
+ },
+ {
+  "word": "way",
+  "start": 365.28,
+  "end": 365.46
+ },
+ {
+  "word": "back.",
+  "start": 365.46,
+  "end": 365.76
+ },
+ {
+  "word": "No",
+  "start": 367.05,
+  "end": 367.37
+ },
+ {
+  "word": "trace",
+  "start": 367.37,
+  "end": 367.67
+ },
+ {
+  "word": "of",
+  "start": 367.67,
+  "end": 367.85
+ },
+ {
+  "word": "those",
+  "start": 367.85,
+  "end": 367.99
+ },
+ {
+  "word": "rafts",
+  "start": 367.99,
+  "end": 368.65
+ },
+ {
+  "word": "was",
+  "start": 368.65,
+  "end": 368.75
+ },
+ {
+  "word": "ever",
+  "start": 368.75,
+  "end": 369.15
+ },
+ {
+  "word": "found.",
+  "start": 369.15,
+  "end": 369.51
+ },
+ {
+  "word": "No",
+  "start": 370.3,
+  "end": 370.66
+ },
+ {
+  "word": "bodies",
+  "start": 370.66,
+  "end": 371.08
+ },
+ {
+  "word": "were",
+  "start": 371.08,
+  "end": 371.96
+ },
+ {
+  "word": "ever",
+  "start": 371.96,
+  "end": 372.32
+ },
+ {
+  "word": "recovered.",
+  "start": 372.32,
+  "end": 372.82
+ },
+ {
+  "word": "For",
+  "start": 373.87,
+  "end": 373.91
+ },
+ {
+  "word": "the",
+  "start": 373.91,
+  "end": 374.05
+ },
+ {
+  "word": "families",
+  "start": 374.05,
+  "end": 374.47
+ },
+ {
+  "word": "in",
+  "start": 374.47,
+  "end": 374.77
+ },
+ {
+  "word": "Samoa,",
+  "start": 374.77,
+  "end": 375.25
+ },
+ {
+  "word": "Tokelau,",
+  "start": 375.89,
+  "end": 376.35
+ },
+ {
+  "word": "and",
+  "start": 376.63,
+  "end": 376.73
+ },
+ {
+  "word": "New",
+  "start": 376.73,
+  "end": 376.97
+ },
+ {
+  "word": "Zealand,",
+  "start": 376.97,
+  "end": 377.35
+ },
+ {
+  "word": "the",
+  "start": 377.91,
+  "end": 378.01
+ },
+ {
+  "word": "tragedy",
+  "start": 378.01,
+  "end": 378.45
+ },
+ {
+  "word": "did",
+  "start": 378.45,
+  "end": 378.75
+ },
+ {
+  "word": "not",
+  "start": 378.75,
+  "end": 379.07
+ },
+ {
+  "word": "end",
+  "start": 379.07,
+  "end": 379.43
+ },
+ {
+  "word": "at",
+  "start": 379.43,
+  "end": 379.67
+ },
+ {
+  "word": "sea.",
+  "start": 379.67,
+  "end": 379.97
+ },
+ {
+  "word": "Because",
+  "start": 380.89,
+  "end": 381.17
+ },
+ {
+  "word": "no",
+  "start": 381.17,
+  "end": 381.55
+ },
+ {
+  "word": "bodies",
+  "start": 381.55,
+  "end": 381.91
+ },
+ {
+  "word": "were",
+  "start": 381.91,
+  "end": 382.11
+ },
+ {
+  "word": "found,",
+  "start": 382.11,
+  "end": 382.57
+ },
+ {
+  "word": "courts",
+  "start": 383.15,
+  "end": 383.29
+ },
+ {
+  "word": "could",
+  "start": 383.29,
+  "end": 383.57
+ },
+ {
+  "word": "not",
+  "start": 383.57,
+  "end": 383.81
+ },
+ {
+  "word": "officially",
+  "start": 383.81,
+  "end": 384.29
+ },
+ {
+  "word": "confirm",
+  "start": 384.29,
+  "end": 384.95
+ },
+ {
+  "word": "their",
+  "start": 384.95,
+  "end": 385.23
+ },
+ {
+  "word": "deaths",
+  "start": 385.23,
+  "end": 385.53
+ },
+ {
+  "word": "for",
+  "start": 385.53,
+  "end": 385.85
+ },
+ {
+  "word": "years\u2014leaving",
+  "start": 385.85,
+  "end": 386.57
+ },
+ {
+  "word": "grieving",
+  "start": 387.29,
+  "end": 387.71
+ },
+ {
+  "word": "families",
+  "start": 387.71,
+  "end": 388.33
+ },
+ {
+  "word": "in",
+  "start": 388.33,
+  "end": 388.69
+ },
+ {
+  "word": "legal",
+  "start": 388.69,
+  "end": 389.03
+ },
+ {
+  "word": "and",
+  "start": 389.03,
+  "end": 389.37
+ },
+ {
+  "word": "financial",
+  "start": 389.37,
+  "end": 390.03
+ },
+ {
+  "word": "paralysis,",
+  "start": 390.03,
+  "end": 390.69
+ },
+ {
+  "word": "unable",
+  "start": 391.39,
+  "end": 391.57
+ },
+ {
+  "word": "to",
+  "start": 391.57,
+  "end": 391.91
+ },
+ {
+  "word": "access",
+  "start": 391.91,
+  "end": 392.31
+ },
+ {
+  "word": "bank",
+  "start": 392.31,
+  "end": 392.61
+ },
+ {
+  "word": "accounts",
+  "start": 392.61,
+  "end": 393.07
+ },
+ {
+  "word": "or",
+  "start": 393.07,
+  "end": 393.43
+ },
+ {
+  "word": "settle",
+  "start": 393.43,
+  "end": 393.77
+ },
+ {
+  "word": "estates.",
+  "start": 393.77,
+  "end": 394.13
+ },
+ {
+  "word": "The",
+  "start": 394.99,
+  "end": 395.67
+ },
+ {
+  "word": "Joyita",
+  "start": 395.67,
+  "end": 395.88
+ },
+ {
+  "word": "was",
+  "start": 396.09,
+  "end": 396.39
+ },
+ {
+  "word": "salvaged",
+  "start": 396.39,
+  "end": 397.07
+ },
+ {
+  "word": "and",
+  "start": 397.07,
+  "end": 397.29
+ },
+ {
+  "word": "sold,",
+  "start": 397.29,
+  "end": 397.63
+ },
+ {
+  "word": "but",
+  "start": 398.19,
+  "end": 398.37
+ },
+ {
+  "word": "sailors",
+  "start": 398.37,
+  "end": 398.73
+ },
+ {
+  "word": "called",
+  "start": 398.73,
+  "end": 399.13
+ },
+ {
+  "word": "her",
+  "start": 399.13,
+  "end": 399.41
+ },
+ {
+  "word": "cursed.",
+  "start": 399.41,
+  "end": 399.87
+ },
+ {
+  "word": "Under",
+  "start": 400.75,
+  "end": 400.97
+ },
+ {
+  "word": "her",
+  "start": 400.97,
+  "end": 401.15
+ },
+ {
+  "word": "new",
+  "start": 401.15,
+  "end": 401.43
+ },
+ {
+  "word": "owner,",
+  "start": 401.43,
+  "end": 401.77
+ },
+ {
+  "word": "she",
+  "start": 402.19,
+  "end": 402.29
+ },
+ {
+  "word": "ran",
+  "start": 402.29,
+  "end": 402.49
+ },
+ {
+  "word": "aground",
+  "start": 402.49,
+  "end": 402.93
+ },
+ {
+  "word": "twice",
+  "start": 402.93,
+  "end": 403.33
+ },
+ {
+  "word": "more\u2014first",
+  "start": 403.33,
+  "end": 404.01
+ },
+ {
+  "word": "in",
+  "start": 404.69,
+  "end": 405.01
+ },
+ {
+  "word": "January",
+  "start": 405.01,
+  "end": 405.47
+ },
+ {
+  "word": "1957",
+  "start": 405.47,
+  "end": 406.55
+ },
+ {
+  "word": "in",
+  "start": 406.55,
+  "end": 407.01
+ },
+ {
+  "word": "the",
+  "start": 407.01,
+  "end": 407.23
+ },
+ {
+  "word": "Koro",
+  "start": 407.23,
+  "end": 407.45
+ },
+ {
+  "word": "Sea,",
+  "start": 407.45,
+  "end": 407.71
+ },
+ {
+  "word": "and",
+  "start": 408.29,
+  "end": 408.39
+ },
+ {
+  "word": "again",
+  "start": 408.39,
+  "end": 408.69
+ },
+ {
+  "word": "in",
+  "start": 408.69,
+  "end": 408.99
+ },
+ {
+  "word": "November",
+  "start": 408.99,
+  "end": 409.37
+ },
+ {
+  "word": "1959",
+  "start": 409.37,
+  "end": 410.53
+ },
+ {
+  "word": "near",
+  "start": 410.53,
+  "end": 410.99
+ },
+ {
+  "word": "Levuka\u2014before",
+  "start": 410.99,
+  "end": 411.68
+ },
+ {
+  "word": "being",
+  "start": 412.37,
+  "end": 412.69
+ },
+ {
+  "word": "stripped",
+  "start": 412.69,
+  "end": 413.11
+ },
+ {
+  "word": "and",
+  "start": 413.11,
+  "end": 413.47
+ },
+ {
+  "word": "abandoned",
+  "start": 413.47,
+  "end": 413.97
+ },
+ {
+  "word": "on",
+  "start": 413.97,
+  "end": 414.25
+ },
+ {
+  "word": "a",
+  "start": 414.25,
+  "end": 414.39
+ },
+ {
+  "word": "Fiji",
+  "start": 414.39,
+  "end": 414.67
+ },
+ {
+  "word": "beach,",
+  "start": 414.67,
+  "end": 415.07
+ },
+ {
+  "word": "where",
+  "start": 415.49,
+  "end": 415.69
+ },
+ {
+  "word": "her",
+  "start": 415.69,
+  "end": 415.87
+ },
+ {
+  "word": "wooden",
+  "start": 415.87,
+  "end": 416.17
+ },
+ {
+  "word": "frame",
+  "start": 416.17,
+  "end": 416.61
+ },
+ {
+  "word": "slowly",
+  "start": 416.61,
+  "end": 417.23
+ },
+ {
+  "word": "rotted",
+  "start": 417.23,
+  "end": 417.73
+ },
+ {
+  "word": "into",
+  "start": 417.73,
+  "end": 418.01
+ },
+ {
+  "word": "the",
+  "start": 418.01,
+  "end": 418.15
+ },
+ {
+  "word": "sand.",
+  "start": 418.15,
+  "end": 418.45
+ },
+ {
+  "word": "Sometimes,",
+  "start": 419.82,
+  "end": 420.56
+ },
+ {
+  "word": "the",
+  "start": 420.96,
+  "end": 421.34
+ },
+ {
+  "word": "most",
+  "start": 421.34,
+  "end": 421.58
+ },
+ {
+  "word": "terrifying",
+  "start": 421.58,
+  "end": 422.36
+ },
+ {
+  "word": "mysteries",
+  "start": 422.36,
+  "end": 422.92
+ },
+ {
+  "word": "are",
+  "start": 422.92,
+  "end": 423.3
+ },
+ {
+  "word": "not",
+  "start": 423.3,
+  "end": 423.46
+ },
+ {
+  "word": "caused",
+  "start": 423.46,
+  "end": 423.82
+ },
+ {
+  "word": "by",
+  "start": 423.82,
+  "end": 424.1
+ },
+ {
+  "word": "monsters",
+  "start": 424.1,
+  "end": 424.66
+ },
+ {
+  "word": "or",
+  "start": 424.66,
+  "end": 425.04
+ },
+ {
+  "word": "supernatural",
+  "start": 425.04,
+  "end": 425.6
+ },
+ {
+  "word": "forces.",
+  "start": 425.6,
+  "end": 426.28
+ },
+ {
+  "word": "They",
+  "start": 426.94,
+  "end": 427.42
+ },
+ {
+  "word": "are",
+  "start": 427.42,
+  "end": 427.54
+ },
+ {
+  "word": "caused",
+  "start": 427.54,
+  "end": 427.88
+ },
+ {
+  "word": "by",
+  "start": 427.88,
+  "end": 428.2
+ },
+ {
+  "word": "a",
+  "start": 428.2,
+  "end": 428.34
+ },
+ {
+  "word": "broken",
+  "start": 428.34,
+  "end": 428.72
+ },
+ {
+  "word": "two-millimeter",
+  "start": 428.72,
+  "end": 429.2
+ },
+ {
+  "word": "wire,",
+  "start": 429.68,
+  "end": 430.26
+ },
+ {
+  "word": "a",
+  "start": 430.84,
+  "end": 430.94
+ },
+ {
+  "word": "dark",
+  "start": 430.94,
+  "end": 431.32
+ },
+ {
+  "word": "engine",
+  "start": 431.32,
+  "end": 431.72
+ },
+ {
+  "word": "room,",
+  "start": 431.72,
+  "end": 432.04
+ },
+ {
+  "word": "and",
+  "start": 432.58,
+  "end": 432.74
+ },
+ {
+  "word": "twenty-five",
+  "start": 432.74,
+  "end": 433.08
+ },
+ {
+  "word": "people",
+  "start": 433.42,
+  "end": 433.94
+ },
+ {
+  "word": "who",
+  "start": 433.94,
+  "end": 434.22
+ },
+ {
+  "word": "fled",
+  "start": 434.22,
+  "end": 434.54
+ },
+ {
+  "word": "from",
+  "start": 434.54,
+  "end": 434.84
+ },
+ {
+  "word": "safety...",
+  "start": 434.84,
+  "end": 435.28
+ },
+ {
+  "word": "because",
+  "start": 436.08,
+  "end": 436.38
+ },
+ {
+  "word": "they",
+  "start": 436.38,
+  "end": 436.6
+ },
+ {
+  "word": "couldn't",
+  "start": 436.6,
+  "end": 436.92
+ },
+ {
+  "word": "see",
+  "start": 436.92,
+  "end": 437.24
+ },
+ {
+  "word": "in",
+  "start": 437.24,
+  "end": 437.5
+ },
+ {
+  "word": "the",
+  "start": 437.5,
+  "end": 437.6
+ },
+ {
+  "word": "dark.",
+  "start": 437.6,
+  "end": 437.9
+ },
+ {
+  "word": "I",
+  "start": 439.31,
+  "end": 439.65
+ },
+ {
+  "word": "am",
+  "start": 439.65,
+  "end": 439.91
+ },
+ {
+  "word": "The",
+  "start": 439.91,
+  "end": 440.05
+ },
+ {
+  "word": "Keeper.",
+  "start": 440.05,
+  "end": 440.33
+ },
+ {
+  "word": "And",
+  "start": 440.97,
+  "end": 441.25
+ },
+ {
+  "word": "this...",
+  "start": 441.25,
+  "end": 441.53
+ },
+ {
+  "word": "was",
+  "start": 441.53,
+  "end": 442.59
+ },
+ {
+  "word": "The",
+  "start": 442.59,
+  "end": 442.77
+ },
+ {
+  "word": "Last",
+  "start": 442.77,
+  "end": 443.17
+ },
+ {
+  "word": "Lantern.",
+  "start": 443.17,
+  "end": 443.57
+ }
+]
